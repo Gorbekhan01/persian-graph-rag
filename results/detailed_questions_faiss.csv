@@ -1,0 +1,582 @@
+﻿Model,question_id,category,chapter,difficulty,question,ground_truth,generated_answer,retrieved_context,faithfulness,answer_relevance,context_relevance,latency_seconds,reasoning
+FAISS,1,simple,1,easy,نام قانونی که بیان می‌کند خواص فیزیکی و شیمیایی عنصرها به‌صورت دوره‌ای تکرار می‌شود چیست؟,قانون دوره‌ای عنصرها.,قانون دوره‌ای عنصرها ۳,". این روند در دیگر گروه‌ها و دوره‌ها نیز مشاهده می‌شود. به دیگر سخن خواص فیزیکی و شیمیایی عنصرها به‌صورت دوره‌ای تکرار می‌شود که به قانون دوره‌ای عنصرها ۳ معروف است.
+
+. ماندگاری آن نقش تعیین کننده‌ است، کمیتی که نشان می‌دهد هر تغییر شیمیایی در چه گستره‌ای از زمان رخ می‌دهد
+
+در هر دوره از جدول دوره‌ای، از چپ به راست از خاصیت فلزی کاسته و به خاصیت نافلزی افزوده می‌شود
+
+؟ آیا آنها به همان شکل مصرف می‌شوند یا آنها را به عنصرهای سازنده تبدیل می‌کنند، سپس به کار می‌برند؟ چگونه می‌توان تشخیص داد که در یک نمونه سنگ معدن، کدام عنصرها وجود
+
+| نام و نماد شیمیایی فلز(Mg) (منیزیم) | (Ca) (کلسیم) | (Sr) (استرانسیم) |
+| :--- | :---: | :---: |
+| شعاع اتمی (pm) | ۱۳۰ | ۱۷۴ | ۱۹۲ |",5,4,4,16.79,"{'faithfulness_analysis': 'The generated answer ""قانون دوره\u200cای عنصرها ۳"" is directly taken from the retrieved context, which contains the phrase ""قانون دوره\u200cای عنصرها ۳"". No claims are made beyond what is present in the context.', 'answer_relevance_analysis': 'The ground truth answer is ""قانون دوره\u200cای عنصرها"". The generated answer adds an extra ""۳"", which is not part of the expected name. The core idea (the periodic law) is present, but the additional detail makes it not an exact match.', 'context_relevance_analysis': 'The retrieved context includes the needed phrase ""قانون دوره\u200cای عنصرها ۳"" among other unrelated sentences. The essential fact is present, but there is noticeable noise.'}"
+FAISS,2,simple,1,easy,برای تولید طلای لازم برای ساخت یک حلقهٔ عروسی، تقریباً چه مقدار پسماند ایجاد می‌شود؟,حدود سه تن پسماند.,برای نمونه، در تولید مقدار طالی مورد نیاز برای ساخت یک عدد حلقهٔ عروسی حدود سه تن پسماند ایجاد می‌شود.,". به همین دلیل پسماند بسیار زیادی تولید می‌شود. برای نمونه، در تولید مقدار طالی مورد نیاز برای ساخت یک عدد حلقهٔ عروسی حدود سه تن پسماند ایجاد می‌شود
+
+؟ آیا مصرف مواد به‌صورت خام مقرون به صرفه است یا فراورى شده؟ بهره‌برداری از هدایای زمینی بر چرخه‌های طبیعی چه اثری دارد؟ شیوه‌های حفظ و نگهداری این منابع ارزشمند برای آیندگان چیست
+
+در استخراج فلز تنها درصد کمی از سنگ معدن به فلز تبدیل می‌شود.
+
+پسماند سرانهٔ ساالنه فوالد ۴۰ کیلوگرم است.
+
+از بازگردانی هفت قوطی فوالدی آنقدر انرژی ذخیره می‌شود که واتی را در ۶۰ می‌توان یک المپ ساعت روشن نگه داشت۲۵ حدود
+
+>
+> زیورآالت و جواهرات
+> ۲۳۹۸/۷ تن
+>
+> الکترونیک
+> ۳۱۰/۶ تن
+>
+> پشتوانه ارزی
+> ۲۵۳/۳ تن
+>
+> دندان‌پزشکی
+> ۵۷/۳ تن
+>
+> صنایع دیگر
+> ۷۵۰ تن",5,5,3,11.06,"{'faithfulness_analysis': 'The generated answer repeats the exact sentence found in the retrieved context and does not introduce any new claims. All statements are directly supported by the context.', 'answer_relevance_analysis': 'The answer states that about three tons of waste are generated, which matches the ground truth answer exactly. No missing or incorrect details.', 'context_relevance_analysis': 'The retrieved context contains the required fact about ~3 tons of waste, but it also includes a large amount of unrelated information (other waste statistics, unrelated questions). This extra material constitutes significant noise beyond the needed fact.'}"
+FAISS,3,simple,1,easy,کدام فلز در سطح جهان بیشترین مصرف سالانه را در میان صنایع گوناگون دارد؟,آهن.,آهن,".آهن فلزی است که در سطح جهان بیشترین مصرف ساالنه را در بین صنایع گوناگون دارد ‌دانید آهن اغلب در طبیعت به ‌طور که میدر کشور ما نیز مصرف آهن بسیار زیاد است. همان ‌توان وجود آهن را ‌شود که چگونه می‌شود
+
+با توجه به نمودار:
+
+الف) در سال ۲۰۱۵ به تقریب چند میلیارد تن فلز در جهان استخراج و مصرف شده است؟ ب) پیش‌بینی می‌شود که در سال ۲۰۳۰ به تقریب در مجموع چند میلیارد تن از این مواد استخراج و مصرف شوند؟
+
+> ## آیا می دانید
+>
+> ساالنه مقدار قابل توجهی فلز در سطح دنیا تولید و مصرف می شود. جدول زیر مقدار مصرف ساالنه چند فلز را نشان می دهد.
+>
+> | نام فلز | مقدار مصرف (تن) |
+> | :---: | :---: |
+
+در دنیای مدرن و صنعتی امروزی، از فلزهای بسیار زیادی استفاده می شود آن چنان که .)۱۰ ‌های اقتصادی کشورها به تولید و مصرف این مواد گره خورده است (شکلچرخ
+
+شکل ۱۰- کاربرد فلزهای گوناگون در زندگی
+
+## جریان فلز بین محیط زیست و جامعه",5,5,3,4.73,"{'faithfulness_analysis': 'The generated answer ""آهن"" is directly stated in the retrieved context as the metal with the highest annual consumption worldwide. No additional claims are made, so the answer relies solely on the context.', 'answer_relevance_analysis': 'The ground truth answer is ""آهن"". The generated answer matches exactly, providing the correct metal.', 'context_relevance_analysis': 'The retrieved context includes the required fact that iron has the highest consumption, but it is surrounded by a large amount of unrelated material (charts, tables, extra sentences). While the needed information is present, the presence of significant noise lowers the relevance score.'}"
+FAISS,4,simple,1,easy,کدام گاز در کشاورزی به‌عنوان «عمل‌آورنده» برای رسیدن سریع‌تر میوه‌های نارس به کار می‌رود؟,گاز اتن (اتیلن)، که موز و گوجه‌فرنگی رسیده آن را آزاد می‌کنند.,).۲۰ انت,". انت آزاد شده از یک موز یا گوجه فرنگی رسیده به نوبه خود موجب رسیدن سریع‌تر میوه‌های نارس می‌شود. به همین دلیل در کشاورزی، از گاز ).۲۰ انت به‌عنوان «عمل‌آورنده» استفاده می‌شود (شکل
+
+دانشمندان و شیمی‌دان‌ها را بر آن داشت تا بررسی کنند چه موادی در سبزیجات و میوه‌ها این مهم را به عهده دارند
+
+> برخی میوه‌های کال و نارس نشاسته دارند. این نشاسته هم‌زمان با رسیدن میوه به گلوکز تبدیل می‌شود و مزهٔ شیرین آن را ایجاد می‌کند
+
+. این ماده در بیشتر گیاهان وجود دارد. موز و گوجه‌فرنگی رسیده گاز انت آزاد می‌کنند. انت آزاد شده از یک موز یا گوجه فرنگی رسیده به نوبه خود موجب رسیدن سریع‌تر میوه‌های نارس می‌شود
+
+. این پوشش، از تبخیر آب میوه و چروکیده شدن آن و از رشد کپک روی میوه‌ها جلوگیری می‌کند و در عین حال میوه را براق می کند. برای جال دادن سیب از آلکان‌های C۳H۸ و C۴H۸ استفاده می‌شود",5,1,5,3.41,"{'faithfulness_analysis': 'The generated answer "" ).۲۰ انت"" is a direct fragment taken from the retrieved context and does not introduce any new or unsupported information. All tokens appear in the context, so there is no hallucination.', 'answer_relevance_analysis': 'The question asks which gas is used as a ripening agent in agriculture. The ground‑truth answer is ""گاز اتن (اتیلن)"". The generated answer provides only the fragment "" ).۲۰ انت"", which does not identify the gas, nor does it convey the required information. Therefore it fails to answer the question.', 'context_relevance_analysis': 'The retrieved context contains the necessary fact that ""گاز انت"" (ethylene) is used as a ripening agent, along with supporting sentences. The needed information is present, despite some additional unrelated text.'}"
+FAISS,5,simple,1,easy,وقتی گاز اتن را وارد محلول برم می‌کنیم، چه تغییر رنگی دیده می‌شود؟,رنگ قرمز محلول برم از بین می‌رود.,"رنگ قرمز محلول از بین می‌رود.
+","از دیگر واکنش‌های گاز اتن، ترکیب‌شدن آن با برم مایع است. به طوری که هر گاه گاز اتن را در محلولی از برم وارد کنیم، رنگ قرمز محلول از بین می‌رود. این تغییر رنگ، نشانه انجام واکنش شیمیایی زیر است:
+
+. برای نمونه هرگاه گاز اتن را در فشار باال گرما دهیم، جامد سفیدرنگی به دست می‌آید. بررسی‌ها نشان می‌دهد که جرم مولی این فراورده، اغلب ده‌ها هزار گرم بر مول است
+
+. آیا مى‌دانید جنب‌وجوش مولکول‌ها در این فرایند چه تغییری مى‌کند
+
+در این واکنش نیز، مولکول برم به پیوند دوگانۀ کربن-کربن در مولکول اتن افزوده می‌شود ‌کند به‌ها در این واکنش شرکت می‌ای سیرشده پدید آمده است. همهٔ آلكنو فراورده
+
+اتن نخستین عضو خانوادهٔ آلکن‌هاست. این ماده در بیشتر گیاهان وجود دارد. موز و گوجه‌فرنگی رسیده گاز انت آزاد می‌کنند",5,5,4,3.9,"{'faithfulness_analysis': 'The generated answer states that the red color of the solution disappears. This claim is directly present in the retrieved context sentence ""رنگ قرمز محلول از بین می\u200cرود"". No additional information is introduced, so the answer is fully supported by the context.', 'answer_relevance_analysis': 'The ground truth answer is exactly that the red color of the bromine solution disappears. The generated answer matches this statement word‑for‑word, thus fully answering the question.', 'context_relevance_analysis': 'The retrieved context includes the required fact that the red color disappears when acetylene is added to bromine solution. It also contains extra unrelated sentences about other reactions and properties, which constitute minor irrelevant content but do not omit any needed information.'}"
+FAISS,6,simple,1,easy,برای به‌دام‌انداختن گاز گوگرد دی‌اکسید خروجی از نیروگاه‌های زغال‌سنگی، گازهای خروجی را از روی چه ماده‌ای عبور می‌دهند؟,از روی کلسیم اکسید (CaO).,کلسیم اکسید,"• شست وشوی زغال سنگ به منظور حذف گوگرد و ناخالصی های دیگر
+
+• به دام انداختن گاز گوگرد دی اکسید خارج شده از نیروگاه ها با عبور گازهای خروجی از روی کلسیم اکسید
+
+• به دام انداختن گاز گوگرد دی اکسید خارج شده از نیروگاه ها با عبور گازهای خروجی از روی کلسیم اکسید
+
+\[SO_2(g) + CaO(s) \rightarrow CaSO_4(s)\]
+
+؟ جداسازی آنها از نفت‌خام بر چه مبنایی و با چه دستگاهی انجام می‌شود؟
+
+. این انفجارها اغلب به دلیل تجمع گاز متان آزاد شده از زغال سنگ در معدن رخ می دهد. متان گازی سبک، بی بو و بی رنگ است و هرگاه مقدار آن در هوای معدن به درصد برسد، احتمال انفجار وجود دارد
+
+این پلیمرها را از فراورده‌های کشاورزی مانند سیب‌زمینی، ذرت و نیشکر تهیه می‌کنند",5,5,4,4.04,"{'faithfulness_analysis': 'The generated answer ""کلسیم اکسید"" is directly stated in the retrieved context (""... عبور گازهای خروجی از روی کلسیم اکسید""). No additional claims are made, so the answer is fully supported by the context.', 'answer_relevance_analysis': 'The ground truth answer is ""از روی کلسیم اکسید (CaO)"". The generated answer ""کلسیم اکسید"" matches this exactly in meaning, providing the correct material without missing any detail.', 'context_relevance_analysis': 'The retrieved context includes the sentence confirming that SO₂ is captured by passing the gases over calcium oxide, which is the required fact. The context also contains some unrelated bullet points, but the needed information is present and clear, making the relevance high but not perfectly noise‑free.'}"
+FAISS,7,simple,2,easy,یکای اندازه‌گیری گرما در دستگاه SI چیست؟,ژول (J).,۱J= ۱kgm۲s-۱,"> ● گرما را با نماد Q نشان می‌دهند و یکای اندازه‌گیری آن در SI ژول است. ۱J= ۱kgm۲s-۱
+>
+> ● هنوز در برخی موارد از یکای کالری (cal) برای بیان مقدار گرما استفاده می‌شود. ۱cal =۴/۱۸J.
+
+## دمای یک ماده از چه خبر می دهد؟
+
+۱_ Heat
+
+، در حالی که یکای دما در ،°C ) است.K( کلوین
+، نماد دما برحسب سلسیوس ،و نماد دما برحسب کلوین °t است.
+۸۵°C
+A
+B
+
+در این تجربه، ۲۵°C تنها یک کمیت به نام دما را برای آب نشان می‌دهد",5,5,4,3.92,"{'faithfulness_analysis': 'The generated answer ""۱J= ۱kgm۲s-۱"" is a direct excerpt from the retrieved context. No additional claims or external information are introduced, so the answer relies solely on the provided context.', 'answer_relevance_analysis': 'The question asks for the SI unit of heat. The answer includes ""J"" (joule) and even defines it, which fully satisfies the ground truth answer ""ژول (J)"". The extra definition does not detract from correctness.', 'context_relevance_analysis': 'The retrieved context contains the needed fact that the SI unit of heat is the joule (J). It also includes unrelated information about calories and other text, which is noise but does not omit any required fact.'}"
+FAISS,8,simple,2,easy,گرمای ویژهٔ آب در ۲۵°C و ۱atm چقدر است؟,۴/۱۸۴ ژول بر گرم بر درجهٔ سلسیوس (J g⁻¹ °C⁻¹).,۲۰۰ g,"در این تجربه، ۲۵°C تنها یک کمیت به نام دما را برای آب نشان می‌دهد
+
+جدول ۱- گرمای ویژه برخی مواد خالص در ۲۵ °C و ۱atm
+
+(۲۵˚C) آب ۲۰۰ g
+۲۱۰۰J (۷۵˚C) آب ۲۰۰ g
+(۲۵˚C) روغن زیتون ۲۰۰ g
+۱۹۷۰۰J (۷۵˚C) روغن زیتون ۲۰۰ g
+
+الف) کدام فرایند انحالل برای سرد کردن محل آسیب دیدگی مناسب است؟ چرا؟ ب) از انحالل کامل ۲/۲۲ g کلسیم کلرید خشک درآب چند کیلوژول گرما آزاد می‌شود؟
+
+## دمای یک ماده از چه خبر می دهد؟",1,1,2,3.82,"{'faithfulness_analysis': 'The generated answer ""۲۰۰ g"" is not a correct answer to the question about specific heat. While the number 200 g appears in the retrieved context, it is presented as the mass of the sample, not as the specific heat value. The answer therefore introduces an unsupported claim and does not rely on the context to answer the question.', 'answer_relevance_analysis': 'The ground‑truth answer is 4.184 J\u202fg⁻¹\u202f°C⁻¹. The generated answer provides only ""200 g"", which is unrelated to the specific heat and thus fails to answer the question. It is completely incorrect.', 'context_relevance_analysis': 'The retrieved context contains a table with a row ""(۲۵˚C) آب ۲۰۰ g ۲۱۰۰J"" but does not explicitly state the specific heat of water (4.184 J\u202fg⁻¹\u202f°C⁻¹). The necessary fact is missing, so the context is insufficient for answering the question.'}"
+FAISS,9,simple,2,easy,آنتالپی پیوند H–F بر اساس جدول آنتالپی پیوندها چقدر است؟,۵۶۷ کیلوژول بر مول.,اطلاعات کافی در متن موجود نیست.,"<!-- PAGE: 74 -->
+در ترومشیمی به مقدار ۴۳۶kJ ، آنتالپی پیوند H-H» می‌گویند و آن را با نماد \( \Delta H \) نشان می‌دهند.
+
+.)۶ است (نمودار۴۳۶kJ حدود
+
+نمودار ۶ H-H آنتالپی پیوند
+
+جدول۲- آنتالپی برخی پیوندها
+
+## آنتالپی پیوند و میانگین آن
+
+۵ـ با توجه به واکنش ترموشیمیایی: \( H_2(g) + I_2(g) \rightarrow 2HI(g) + 52kJ \) ، آنتالپی واکنش \( H_2(g) + I_2(s) \rightarrow 2HI(g) \) را حساب کنید (راهنمایی: آنتالپی فرازش (تصعید) ید را \( ۶۲/۵
+
+شیمی دان‌ها به کار بردن آنتالپی‌های پیوند را برای تعیین ΔH واکنش‌هایی مناسب می‌دانند که همهٔ مواد شرکت کننده در آنها به حالت گازند",5,1,2,3.93,"{'faithfulness_analysis': 'The generated answer states that the text does not contain enough information. This claim is supported by the retrieved context, which only mentions H-H bond enthalpy and does not provide the H–F bond enthalpy. No unsupported facts are introduced.', 'answer_relevance_analysis': 'The ground truth answer is 567\u202fkJ\u202fmol⁻¹. The generated answer provides no value and simply refuses to answer. Since the question is answerable, this refusal is completely incorrect with respect to the required answer.', 'context_relevance_analysis': 'The retrieved context includes a discussion of bond enthalpies and a table heading, but it does not contain the specific H–F bond enthalpy value needed to answer the question. Therefore a crucial fact is missing.'}"
+FAISS,10,simple,2,easy,ارزش سوختی بادام‌زمینی بر اساس جدول ارزش سوختی خوراکی‌ها چند کیلوژول بر گرم است؟,۲۳ کیلوژول بر گرم.,۲۳,"| خوراکی | ارزش سوختی (\( kJ g^{-1} \)) |
+| :---: | :---: |
+| نان | ۱۱/۵ |
+| پنیر | ۲۰/۰ |
+| تخم مرغ | ۶/۰ |
+| شکالت | ۱۸/۰ |
+| شیر | ۳/۰ |
+| بادام زمینی | ۲۳ |
+
+\[ 2C_5H_{11}O_2(s) + 163O_2(g) \rightarrow 114CO_2(g) + 11H_2O(l), \Delta H = -75520 kJ \]
+
+حساب کنید از اکسایش هر کیلوگرم چربی، چند کیلوژول انرژی آزاد می‌شود؟
+
+پ) اگر یک فرد ۷۰ کیلوگرمی، ۲۵ گرم بادام خورده باشد، برای مصرف انرژی حاصل از آن چه مدت باید پیاده‌روی کند؟ آهنگ مصرف انرژی در پیاده‌روی را \( ۱۹۰ \text{ kcal h}^{-۱} \) در نظر بگیرید.
+
+. بررسی‌ها نشان می‌دهد که جرم مولی این فراورده، اغلب ده‌ها هزار گرم بر مول است. زیاد بودن جرم مولی بیانگر این است که در ساختار هر مولکول آن هزاران اتم کربن و هیدروژن وجود دارد
+
+| ماده غذایی | بادام | سبب | برگه زردآلو | خوراکی ۱۰۰٪ (زیر غذایی) kcal |
+| :---: | :---: | :---: | :---: | :---: |
+| چربی (گرم) | ۵۷ | ۹۵ | ۲۲ | ۴۱۴۹/۹ |",5,5,4,3.97,"{'faithfulness_analysis': 'The generated answer ""۲۳"" is directly taken from the retrieved table where ""بادام زمینی"" has a value of ""۲۳"" kJ/g. No additional claims or external information are introduced.', 'answer_relevance_analysis': 'The ground truth answer is ""۲۳ کیلوژول بر گرم"". The generated answer provides the same numeric value (۲۳), which fully conveys the required information; the unit is implicit and matches the question\'s expectation.', 'context_relevance_analysis': 'The retrieved context includes the exact table row giving the energy value for ""بادام زمینی"" (۲۳). Although the context also contains unrelated chemical equations and other tables, the necessary fact is present, making the context relevant with some extraneous material.'}"
+FAISS,11,simple,2,easy,چه کسی نخستین بار دریافت که گرمای یک واکنش معین به راهی که برای انجام آن در پیش گرفته می‌شود وابسته نیست؟,هنری هس (که به قانون هس انجامید).,هنری هس,"نخستین بار هنری هس دریافت که گرمای یک واکنش معین به راهی که برای انجام آن درپیش گرفته می‌شود، وابسته نیست
+
+‌دهد که این مقدار گرمای آزادشده ناشی از تفاوت انرژی گرمایی‌ها نشان میپژوهش ‌دهنده و فراورده نیست
+
+## دمای یک ماده از چه خبر می دهد؟
+
+ب) پیش‌بینی کنید در شرایط یکسان کدام هالوژن واکنش‌پذیرتر است. چرا؟
+
+شکل ۴- نمونه‌ای از انجام یک واکنش گرماده در دمای ثابت",5,4,4,1.47,"{'faithfulness_analysis': 'The generated answer states ""هنری هس"". This claim is directly supported by the retrieved context, which explicitly says that Henry Hess was the first to discover this. No additional or unsupported information is introduced.', 'answer_relevance_analysis': 'The ground truth answer is ""هنری هس (که به قانون هس انجامید)"". The generated answer provides the core part ""هنری هس"", which correctly identifies the person. It omits the parenthetical note about Hess\'s law, a minor detail, but the essential answer is correct.', 'context_relevance_analysis': 'The retrieved context includes the exact statement that Henry Hess discovered the path‑independence of reaction heat, which is sufficient to answer the question. It also contains some unrelated material about temperature, which is noise but does not affect the presence of the needed fact.'}"
+FAISS,12,simple,2,easy,کدام شاخه از علم شیمی افزون بر بررسی آهنگ تغییر شیمیایی، عوامل مؤثر بر این آهنگ را نیز بررسی می‌کند؟,سینتیک شیمیایی.,سینتیک شیمیایی,". در واقع سینتیک شیمیایی به عنوان شاخه‌ای از علم شیمی افزون بر بررسی آهنگ تغییر شیمیایی در واکنش‌ها، عوامل مؤثر بر این آهنگ را نیز بررسی می‌کند
+
+. آیا مى‌دانید جنب‌وجوش مولکول‌ها در این فرایند چه تغییری مى‌کند
+
+> شیمی آلی ۱، به مطالعهٔ ساختار خواص، ترکیب‌ها، واکنش‌ها و تهیهٔ مواد کربن‌داری می‌پردازد که نه تنها شامل هیدروکربن‌ها می‌شود بلکه در ساختار این مواد، اتم عنصرهای دیگری مانند اکسیژن، نیتروژن، هالوژن،
+
+. ماندگاری آن نقش تعیین کننده‌ است، کمیتی که نشان می‌دهد هر تغییر شیمیایی در چه گستره‌ای از زمان رخ می‌دهد
+
+<!-- PAGE: 60 -->
+وابسته به انجام واکنش‌های شیمیایی هستند که هر یک آهنگ ویژه‌ای دارند؛ واکنش‌هایی که دمای بدن را نیز کنترل و تنظیم می‌کنند.",5,5,4,3.84,"{'faithfulness_analysis': 'The generated answer ""سینتیک شیمیایی"" is directly stated in the retrieved context. No additional claims are made, so the answer is fully supported by the context.', 'answer_relevance_analysis': 'The answer exactly matches the ground truth (سینتیک شیمیایی) and fully addresses the question about the branch of chemistry that studies reaction rates and influencing factors.', 'context_relevance_analysis': 'The retrieved context contains the precise sentence confirming that سینتیک شیمیایی is the branch in question, but it also includes several unrelated sentences about molecular motion, organic chemistry, and persistence, which constitute minor irrelevant content.'}"
+FAISS,13,simple,3,easy,کشف اتفاقی تفلون، کدام دانشمند را به شهرت و ثروت رساند؟,پلانکت (Plunkett).,پالانکت,"تفلون نام تجاری پلیمری است که کشف اتفاقی آن، پالنکت را به شهرت و ثروت رساند. میالدی اتفاق افتاد. پالنکت و گروه پژوهشی او در حال بررسی و مطالعه۱۹۳۰ ماجرا در دهه ها بودند
+
+. کیمیایی که از دل زمین بیرون کشیده می‌شد و به دلیل رفتارهایش، نظر همهٔ جهانیان را به خود جلب کرد. امروزه این هدیهٔ زمینی ارزشمند را طالی سیاه می‌نامند.
+
+نخستین بار هنری هس دریافت که گرمای یک واکنش معین به راهی که برای انجام آن درپیش گرفته می‌شود، وابسته نیست
+
+دانشمندان و شیمی‌دان‌ها را بر آن داشت تا بررسی کنند چه موادی در سبزیجات و میوه‌ها این مهم را به عهده دارند
+
+. یافتن روش مناسب برای تولید پلی‌اتن سنگین (بدون شاخه) سال‌ها طول کشید و در نهایت دو شیمی‌دان آلمانی و ایتالیایی به ‌های کارل زیگلرنام ) و گ یول یو ناتا ۱۸۹۸-۱۹۷۳ )۱۹-۳-۱۹۷۹ ،Giulio Natta( برندۀ",4,4,4,7.03,"{'faithfulness_analysis': 'The generated answer provides the name of the scientist. The retrieved context mentions the scientist as ""پالنکت"" (and similar variants). The answer ""پالانکت"" is a minor orthographic variation of the name present in the context, so the claim is essentially supported, though not an exact string match.', 'answer_relevance_analysis': 'The ground truth answer is ""پلانکت"". The generated answer ""پالانکت"" refers to the same scientist, differing only by an extra ""ا"". This is a minor spelling error but the core answer (the scientist who became famous and wealthy) is correctly identified.', 'context_relevance_analysis': 'The retrieved context contains the exact fact that the accidental discovery of Teflon made ""پالنکت"" famous and wealthy, which is the required information. The context also includes unrelated sentences, adding some noise, but the essential fact is present.'}"
+FAISS,14,simple,3,easy,ساده‌ترین آمین کدام است؟,متیل آمین.,متیل آمین، ساده‌ترین آمین است.,". آمین، ترکیبی آلی است که در ساختار آنها اتم‌های C، H و N وجود دارد. متیل آمین، ساده‌ترین آمین است. وجود اتم نیتروژن، خواص شیمیایی و فیزیکی منحصر به فردی به آمین‌ها داده است (شکل ۱۶)
+
+عامل آمیدی از واکنش اسید آلی با آمین به دست می‌آید. آمین، ترکیبی آلی است که در ساختار آنها اتم‌های C، H و N وجود دارد. متیل آمین، ساده‌ترین آمین است
+
+. متان (CH۴) ساده‌ترین و نخستین عضو خانواده آلکان‌هاست. اعضای دیگر این خانواده شامل مولکول‌هایی است که شمار اتم‌های کربن آنها از دو تا ده کربن متغیر است
+
+. برای درک انرژی پیوند می‌توان بحث را با پیوند میان ساده‌ترین اتم‌ها ادامه داد.
+
+| آلومینیم | ۰/۹۰ | آب | ۴/۱۸۴ |
+| نقره | ۰/۲۳۶ | سدیم کلرید | ۰/۸۵۰ |
+| طال | ۰/۱۲۸ | اتانول | ۲/۴۳۰ |
+| اکسیژن | ۰/۹۲۰ | کربن دی اکسید | ۰/۸۴۰ |",5,5,3,4.67,"{'faithfulness_analysis': 'The generated answer states that methylamine is the simplest amine. This claim is directly present in the retrieved context (""متیل آمین، ساده\u200cترین آمین است."") with no additional information, so it is fully supported.', 'answer_relevance_analysis': 'The ground truth answer is ""متیل آمین"". The generated answer provides exactly that answer and adds the same explanatory phrase, matching the ground truth perfectly.', 'context_relevance_analysis': 'The retrieved context includes the exact sentence needed to answer the question, but it also contains a large amount of unrelated material (tables of element data, other chemical information). This significant noise lowers the relevance score.'}"
+FAISS,15,simple,3,easy,کدام کربوکسیلیک اسید بر اثر گزش مورچهٔ سرخ وارد بدن می‌شود و سوزش و خارش ایجاد می‌کند؟,متانوئیک (فورمیک) اسید، نخستین عضو خانوادهٔ کربوکسیلیک اسیدها.,متن بازیابی‌شده مورچۀ سرخ وارد بدن شده و باعث سوزش و خارش در محل گزیدگی می‌شود.,"... ناشی از وجود چنین مولکول‌هایی در آنهاست. ، اولین عضو خانواده کربوکسیلیک اسیدهاست که بر HCOOH متانوئیک (فورمیک) اسید، اثر گزش مورچۀ سرخ وارد بدن شده و باعث سوزش و خارش در محل گزیدگی می‌شود.
+
+کربوکسیلیک اسیدها نیز دسته‌ای دیگر از ترکیب‌های آلی هستند که گروه عاملی ) دارند. این ترکیب‌ها مرّة ترش دارند به طوری که مرّة ترش میوه‌هایی -COOH( کربوکسیل مانند انگور، لیمو ترش، کیوی، گوجه سبز و..
+
+الف) کدام فرایند انحالل برای سرد کردن محل آسیب دیدگی مناسب است؟ چرا؟ ب) از انحالل کامل ۲/۲۲ g کلسیم کلرید خشک درآب چند کیلوژول گرما آزاد می‌شود؟
+
+\[ R-C(=O)-OH + H-OR' \xrightarrow{H_2SO_4} R-C(=O)-OR' + H_2O \]
+
+کربوکسیلیک اسید الکل استر
+
+با این توصیف از واکنش استیک اسید با اتانول، طبق معادلة زیر اتیل استات به دست می‌آید.
+
+چه رفتاری با مواد غذایی دارد؟ چرا مواد غذایی را باید در محلی تاریک و دور از تابش مستقیم نور خورشید نگه داشت",4,1,4,7.81,"{'faithfulness_analysis': 'The generated answer only states that the red ant bite enters the body and causes burning and itching, which is directly supported by the retrieved context. However, it adds the phrase ""متن بازیابی\u200cشده"" which does not appear in the context, representing a minor hallucination. No unsupported factual claims are made beyond that.', 'answer_relevance_analysis': 'The question asks for the specific carboxylic acid responsible for the symptoms. The ground‑truth answer is ""متانوئیک (فورمیک) اسید"". The generated answer does not mention this acid at all, providing only a generic description of the bite\'s effect. Therefore it fails to answer the core of the question.', 'context_relevance_analysis': 'The retrieved context contains the exact needed information (the name of the acid) along with a lot of unrelated material. The essential fact is present, so the context is relevant, though it includes noise.'}"
+FAISS,16,simple,3,easy,بو و طعم خوش آناناس به‌دلیل وجود کدام استر در آن است؟,اتیل بوتانوئات (اتیل بوتانوات).,اتیل بوتانوئات,"استرها دسته‌ای از مواد آلی هستند که منشأ بوی خوش شکوفه‌ها، گل‌ها، عطرها و نیز بو و طعم میوه‌ها هستند. برای نمونه، بو و طعم خوش آناناس به دلیل وجود اتیل بوتانوئات در آن است (شکل ۱۰).
+
+؟ واقعیت این است که اگر نان را برای مدت طوالنی‌تری در دهان بجوید، مزه‌ای شیرین احساس خواهید کرد. سیب زمینی پخته نیز اندکی مزهٔ شیرین دارد. این مزهٔ شیرین ناشی از چیست؟
+
+. وجود اتم نیتروژن، خواص شیمیایی و فیزیکی منحصر به فردی به آمین‌ها داده است (شکل ۱۶). به طوری که بوی ماهی ناشی از آمین‌های موجود در آن است.
+
+<!-- PAGE: 118 -->
+> ## آیا می دانید
+>
+> منتول الکلی با فرمول ساختاری زیر است که بوی نعناع و سوسنبر ناشی از آن است. از منتول در تهیه برخی آدامس ها، آب نبات ها و داروها استفاده می شود.
+
+؟ چگونه می توان بو و مزه مواد خوراکی را تغییر دارد یا بهبود بخشید؟ برای تولید بیشتر و سریع تر مواد غذایی چه راه هایی وجود دارد؟ آیا انرژی موجود در مواد غذایی یکسان است؟",5,5,4,4.84,"{'faithfulness_analysis': 'The generated answer ""اتیل بوتانوئات"" is directly stated in the retrieved context as the ester responsible for pineapple\'s pleasant smell and taste. No additional claims are made, so the answer relies solely on the provided context.', 'answer_relevance_analysis': 'The ground truth answer is ""اتیل بوتانوئات (اتیل بوتانوات)"". The generated answer matches this exactly (ignoring the optional parenthetical spelling), thus fully answering the question.', 'context_relevance_analysis': 'The retrieved context includes the exact sentence that identifies ethyl butanoate as the responsible ester, fulfilling the information need. It also contains unrelated passages about bread, potatoes, and amines, which constitute minor irrelevant content but do not impede finding the required fact.'}"
+FAISS,17,simple,3,medium,پلی‌الکتیک اسید از پلیمری‌شدن چه ماده‌ای به دست می‌آید؟,از پلیمری‌شدن الکتیک اسید که از نشاستهٔ موجود در سیب‌زمینی، ذرت و نیشکر تهیه می‌شود.,پلی الکتیک اسید از پلیمری شدن تترافلوئورواتن به دست می‌آید.,". به‌طوری که نخست نشاستهٔ موجود در این مواد را به الکتیک اسید تبدیل کرده، سپس از واکنش پلیمری شدن آن در شرایط مناسب پلی الکتیک اسید ۱ تولید می‌کنند.
+
+● شیر ترش‌شده دارای الکتیک اسید است.
+
+> ## آیا می دانید
+>
+> از پلیمرهای زیست تخریب‌پذیر برای بخیه زدن استفاده می‌شود.
+
+این پلیمرها را از فراورده‌های کشاورزی مانند سیب‌زمینی، ذرت و نیشکر تهیه می‌کنند
+
+. او پس از برش کپسول با منظره تازه ای روبه رو شد. الیهٔ نازکی از یک مادهٔ جامد ته کپسول تشکیل شده بود. بررسی دقیق تر نشان داد که این مادهٔ جامد از پلیمری شدن تترافلوئورواتن به دست آمده است.
+
+از پلی الکتیک اسید انواع ظرف‌های پالستیکی یکبار مصرف مانند وسایل آشپزخانه، سفره، سطل زباله، کیسهٔ پالستیکی و... تولید شده و کاربرد آنها رو به گسترش است",1,1,4,8.96,"{'faithfulness_analysis': 'The generated answer claims that PLA is obtained from polymerization of تترافلوئورواتن, which is not mentioned in the retrieved context. The context states that PLA is produced by polymerizing الکتیک اسید (lactic acid) derived from starch. Therefore the answer introduces an unsupported and contradictory fact.', 'answer_relevance_analysis': 'The ground truth specifies that PLA comes from polymerizing lactic acid obtained from starch sources. The generated answer gives a completely different precursor (تترافلوئورواتن), so it does not match the ground truth at all.', 'context_relevance_analysis': 'The retrieved context includes the necessary information about converting starch to الکتیک اسید and then polymerizing it to obtain پلی الکتیک اسید. It also contains unrelated sentences (e.g., about تترافلوئورواتن), but the essential facts are present, making the context relevant with some noise.'}"
+FAISS,18,multi-hop,1,medium,چرا طلا برخلاف آهن می‌تواند در طبیعت به شکل عنصری (آزاد) یافت شود؟,طلا واکنش‌پذیری بسیار کمی دارد و در گذر زمان جلای فلزی خود را حفظ می‌کند، به همین دلیل در میان فلزها تنها فلزی است که به شکل کلوخه یا رگه در طبیعت یافت می‌شود. اما آهن با اکسیژن در هوای مرطوب واکنش می‌دهد و زنگ می‌زند و در طبیعت اغلب به شکل ترکیب (اکسیدهایی مانند FeO و Fe₂O₃) وجود دارد.,هر چند طال در طبیعت به شکل فلزی و عنصری خود نیز یافت می‌شود، اما مقدار آن در معادن طال بسیار کم است. به‌طوری که برای استخراج مقدار کمی از آن باید از حجم انبوهی خاک معدن استفاده کرد.,"اغلب این فلزها در طبیعت به شکل ترکیب‌های یونی همچون اکسیدها، کربنات‌ها و... یافت می‌شوند. برای نمونه آهن، دو اکسید طبیعی با فرمول‌های FeO و Fe۲O۳ دارد. در این
+
+۱_ Ruby
+
+هر چند طال در طبیعت به شکل فلزی و عنصری خود نیز یافت می‌شود، اما مقدار آن در معادن طال بسیار کم است. به‌طوری که برای استخراج مقدار کمی از آن باید از حجم انبوهی خاک معدن استفاده کرد
+
+شکل۲ـ نمایش توزیع برخی عنصرها در جهان. آیا پراکندگی چنین منابعی می تواند دلیلی بر پیدایش تجارت جهانی باشد؟ توضیح دهید.
+
+... به شکل آزاد در طبیعت وجود دارند و وجود نمونه هایی از فلزهای نقره، مس، پالتین نیز در طبیعت گزارش شده است. البته در میان .)۹ ‌شود (شکل‌الی خاک یافت‌های زرد البه‌ها یا رگهفلزها، تنها طال به شکل کلوخه
+
+؟ آیا آنها به همان شکل مصرف می‌شوند یا آنها را به عنصرهای سازنده تبدیل می‌کنند، سپس به کار می‌برند؟ چگونه می‌توان تشخیص داد که در یک نمونه سنگ معدن، کدام عنصرها وجود",5,2,2,10.59,"{'faithfulness_analysis': 'The generated answer repeats a sentence that is directly present in the retrieved context about gold being found in elemental form but in small quantities. No claims are added beyond the context, so it is fully faithful to the provided material.', 'answer_relevance_analysis': ""The question asks for the reason why gold, unlike iron, can exist in nature as a free element. The ground‑truth answer explains that gold is chemically inert while iron readily oxidizes. The generated answer only states that gold is found elemental and in low amounts, without addressing the underlying chemical reason or mentioning iron's behavior. Therefore it fails to answer the core of the question."", 'context_relevance_analysis': 'The retrieved context contains mentions of gold being found elemental and of iron occurring as oxides, but it does not provide the crucial explanation that gold is much less reactive than iron. Hence the context lacks a key fact needed to answer the why‑question.'}"
+FAISS,19,multi-hop,1,medium,در دورهٔ سوم جدول دوره‌ای، از چپ به راست، شعاع اتمی و خصلت فلزی عنصرها هر یک چه روندی دارند؟,هر دو کاهش می‌یابند: خصلت فلزی در یک دوره از چپ به راست کم می‌شود و شعاع اتمی نیز از چپ به راست کاهش می‌یابد.,در هر دوره از جدول دوره‌ای، از چپ به راست از خاصیت فلزی کاسته و به خاصیت نافلزی افزوده می‌شود.,"در هر دوره از جدول دوره‌ای، از چپ به راست از خاصیت فلزی کاسته و به خاصیت نافلزی افزوده می‌شود
+
+نمودار ۱- تغییر شعاع اتمی در دوره سوم جدول دوره ای
+
+۶ـ روند تغییر خصلت فلزی ۱ و نافلزی ۲ در دورهٔ سوم جدول را بررسی کنید.
+
+۷ـ پیش‌بینی کنید کدام عنصر در گروه اول جدول دوره‌ای خصلت فلزی بیشتری دارد.
+
+. در حالی‌که در یک دوره، شعاع اتمی عنصرها از چپ به راست کاهش می‌یابد؛ زیرا در یک دوره، تعداد الیه‌های الکترونی ثابت می‌ماند در حالی‌که تعداد پروتون‌های هسته افزایش می‌یابد
+
+. این روند در دیگر گروه‌ها و دوره‌ها نیز مشاهده می‌شود. به دیگر سخن خواص فیزیکی و شیمیایی عنصرها به‌صورت دوره‌ای تکرار می‌شود که به قانون دوره‌ای عنصرها ۳ معروف است.",5,3,4,7.24,"{'faithfulness_analysis': 'The generated answer only states that metallic character decreases from left to right in a period. This claim is directly supported by the retrieved context. No additional or unsupported statements are made.', 'answer_relevance_analysis': 'The ground truth requires two trends: metallic character decreases and atomic radius decreases. The answer provides only the metallic character trend and omits the atomic radius trend, making it only partially correct.', 'context_relevance_analysis': 'The retrieved context includes both the metallic character decrease and the atomic radius decrease, along with extra explanatory sentences. All necessary facts are present, but there is some irrelevant material, so the context is mostly relevant but not perfectly clean.'}"
+FAISS,20,multi-hop,1,hard,چرا آلکان‌ها واکنش‌پذیری کمی دارند، و در مقابل آلکن‌ها در واکنش با برم چه نشانهٔ قابل مشاهده‌ای دارند که برای شناسایی آنها از هیدروکربن‌های سیرشده به کار می‌رود؟,در آلکان‌ها هر اتم کربن با چهار پیوند یگانه به چهار اتم دیگر متصل است (سیرشده) و تمایل چندانی به واکنش ندارند. آلکن‌ها سیرنشده‌اند و واکنش‌پذیرند؛ با وارد کردن گاز اتن در محلول برم، رنگ قرمز محلول از بین می‌رود و همین واکنش روشی برای شناسایی آنها از هیدروکربن‌های سیرشده است.,آلکان‌ها تمایل چندانی به انجام واکنش‌های شیمیایی ندارند. همهٔ آلكنو فراورده .‌های سیرشده است‌که این واکنش یکی از روش‌های شناسایی آنها از هیدروکربن,".‌های گوناگونی شرکت می‌کنند‌پذیری بیشتری دارند و در واکنش‌ها، واکنش‌پرخالف آلكان ‌ها به این دلیل است که در ساختار آنها دو اتم کربن به سه اتم دیگر‌پذیری زیاد آلكنواکنش متصل بوده و از این رو «سیر نشده»
+
+آلکان‌ها تمایل چندانی به انجام واکنش‌های شیمیایی ندارند
+
+؟ چرا؟ (راهنمایی: در این واکنش تنها چربی موجود در گوشت با بخار برم واکنش می‌دهد).
+
+. همهٔ آلكنو فراورده .‌های سیرشده است‌که این واکنش یکی از روش‌های شناسایی آنها از هیدروکربن
+
+> آلکان‌ها ۱ هیدروکربن‌هایی با پیوندهای یگانه هستند که در آنها هر اتم کربن با چهار پیوند یگانه به اتم‌های کناری متصل شده است. متان (CH۴) ساده‌ترین و نخستین عضو خانواده آلکان‌هاست",1,1,4,11.6,"{'faithfulness_analysis': 'The answer states that alkanes have low reactivity, which is supported by the retrieved context. However it also claims that alkenes are ""سیرشده"" (saturated), which directly contradicts the context that describes alkenes as unsaturated and reactive. This unsupported/contradictory claim makes the answer not faithful to the context.', 'answer_relevance_analysis': 'The ground‑truth answer requires two points: (1) alkanes are saturated and have little reactivity, and (2) alkenes react with bromine, causing the red colour to disappear, which is used for identification. The generated answer only mentions the low reactivity of alkanes and omits the bromine decolorisation observation. Moreover it incorrectly says alkenes are saturated. Hence it fails to answer the question correctly.', 'context_relevance_analysis': 'The retrieved context contains the necessary facts about alkanes being saturated and unreactive, alkenes being unsaturated and reactive, and the bromine decolourisation test. The context is noisy but includes all required information, so it is relevant with minor extraneous material.'}"
+FAISS,21,multi-hop,1,hard,چرا در برج تقطیر نفت‌خام، مولکول‌های سبک‌تر به بالای برج می‌روند و جداسازی بر چه پایه‌ای انجام می‌شود؟,مولکول‌های سبک‌تر فرارتر هستند و از مایع بیرون آمده و به سوی بالای برج (که دمایش کمتر است) حرکت می‌کنند، سپس سرد و مایع می‌شوند. در واقع با تغییر شمار اتم‌های کربن، اندازه و جرم مولکول و در پی آن نیروی بین‌مولکولی و نقطهٔ جوش تغییر می‌کند و به همین دلیل مخلوط‌هایی با نقطه جوش نزدیک به هم از نفت‌خام جدا می‌شوند.,هنگامی که نفت خام داغ به قسمت پایین برج وارد می شود، مولکول های سبک تر و فرآرتر از جمله مواد پتروشیمیایی، از مایع بیرون آمده و به سوی باالی برج حرکت می کنند.,". هنگامی که نفت خام داغ به قسمت پایین برج وارد می شود، مولکول های سبک تر و فرآرتر از جمله مواد پتروشیمیایی، از مایع بیرون آمده و به سوی باالی برج حرکت می کنند
+
+؟ جداسازی آنها از نفت‌خام بر چه مبنایی و با چه دستگاهی انجام می‌شود؟
+
+. برای این کار، نفت خام را درون محفظه ای بزرگ گرما می دهند و آن را به برج تقطیر هدایت می کنند. برجی که در آن از پایین به باال دما کاهش می یابد
+
+۳ـ براساس تحلیل خود از پرسش‌های باال، علت تفاوت در سرعت واکنش سوختن تکه زغال با گرد آن را توضیح دهید.
+
+؟ پ) مالک دسته‌بندی نفت‌خام به دو دستهٔ سبک و سنگین چیست؟ ت) چرا قیمت نفت برنت دریای شمال از دیگر نفت‌ها بیشتر اما قیمت نفت سنگین کشورهای عربی کمتر است؟",5,3,2,15.46,"{'faithfulness_analysis': 'The generated answer repeats the sentence from the retrieved context verbatim and does not introduce any new information. All claims are directly supported by the context.', 'answer_relevance_analysis': 'The answer mentions that lighter molecules leave the liquid and move toward the top of the column, which aligns with the first part of the ground‑truth. However, it does not explain why (volatility, lower boiling point, intermolecular forces) nor does it state the basis of separation (boiling‑point differences). Therefore it only partially answers the question.', 'context_relevance_analysis': 'The retrieved context provides the fact that lighter molecules rise, but it lacks the explanation of the separation principle (boiling‑point/volatility) required to fully answer the question. Hence a crucial piece of information is missing.'}"
+FAISS,22,multi-hop,1,medium,چرا استخراج طلا از نظر توسعهٔ پایدار مسئله‌ساز است؟,مقدار طلا در معادن بسیار کم است و برای استخراج مقدار کمی از آن باید حجم انبوهی خاک معدن به کار رود، پس پسماند بسیار زیادی (حدود سه تن برای یک حلقهٔ عروسی) تولید می‌شود و آثار زیان‌بار زیست‌محیطی دارد. در حالی که توسعهٔ پایدار یعنی مجموع هزینه‌های بهره‌برداری با درنظرگرفتن ملاحظات اقتصادی، اجتماعی و زیست‌محیطی کمترین مقدار ممکن باشد و ردپای زیست‌محیطی کاهش یابد.,از این‌رو استخراج طال همانند دیگر فعالیت‌های صنعتی آثار زیان‌بار زیست محیطی ،بر جای می‌گذارد.,". به‌طوری که اگر مجموع هزینه‌های بهره‌برداری از یک معدن با در نظر گرفتن این مالحظه‌ها، کمترین مقدار ممکن باشد، در آن صورت در مسیر پیشرفت پایدار حرکت می‌کنیم؛ یعنی رفتارهای ما، آسیب کمتری به جامعه‌ای
+
+؟ شیوه‌های حفظ و نگهداری این منابع ارزشمند برای آیندگان چیست؟ علم شیمی و شیمی‌دان‌ها چه نقشی در استفاده از این منابع مبتنی بر توسعهٔ پایدار دارند
+
+. از این‌رو استخراج طال همانند دیگر فعالیت‌های صنعتی آثار زیان‌بار زیست محیطی ،بر جای می‌گذارد
+
+یکی از مشکالت زغال سنگ، شرایط دشوار استخراج آن است. به گونه ای که در سده ۵۰۰۰۰۰ نفر در سطح جهان در اثر انفجار یا فروریختن معدن جان خود را از دست داده اند
+
+. هر چند استفاده از این پلیمرها صرفه‌اقتصادی دارد، اما از نگاه پیشرفت پایدار، تولید و استفاده از این پلیمرها الگوی مصرف مطلوبی نیست زیرا ماندگاری دراز مدت این مواد در طبیعت سبب ایجاد مشکلات فراوانی",5,3,2,11.32,"{'faithfulness_analysis': 'The generated answer repeats the sentence ""از این\u200cرو استخراج طال همانند دیگر فعالیت\u200cهای صنعتی آثار زیان\u200cبار زیست محیطی ،بر جای می\u200cگذارد"" which is verbatim present in the retrieved context. No additional claims are introduced, so the answer is fully supported by the context.', 'answer_relevance_analysis': 'The ground truth explains that gold extraction is problematic because gold is scarce in ore, requiring processing large volumes of rock, producing huge waste (e.g., ~3 tons per wedding ring), and causing significant environmental damage, while sustainable development seeks to minimize such impacts. The generated answer only mentions that gold extraction, like other industrial activities, leaves harmful environmental impacts. It omits the low concentration of gold, the massive waste generated, and the sustainable‑development perspective, so it only partially answers the question.', 'context_relevance_analysis': 'The retrieved context provides a generic statement about environmental harm from gold extraction but lacks the specific facts needed to fully answer the question (low ore concentration, waste volume, definition of sustainable development). Therefore, crucial information is missing.'}"
+FAISS,23,multi-hop,1,medium,چرا اتم کربن می‌تواند ترکیب‌های بسیار بیشتری نسبت به اتم نیتروژن بسازد؟,اتم کربن افزون بر پیوند یگانه می‌تواند پیوندهای دوگانه و سه‌گانه تشکیل دهد و همچنین زنجیرها و حلقه‌های کربنی با اندازه‌های گوناگون بسازد. در حالی که نیتروژن (مانند دیگر نافلزها) فقط سه پیوند اشتراکی تشکیل می‌دهد تا به آرایش هشت‌تایی برسد و ترکیب‌های شناخته‌شدهٔ آن محدود است.,این ویژگی‌های کربن سبب شده تا از این عنصر ترکیب‌های گوناگون و بسیار زیادی پدید آید.,". اما تعداد vN( اتم نیتروژن ترکیب‌های شناخته شده از آن محدود است. اینک می‌پرسید چه چیزی سبب شده است تا اتم‌های کربن بتوانند میلیون‌ها ترکیب تشکیل دهند
+
+... را بسازد. این ویژگی‌های کربن سبب شده تا از این عنصر ترکیب‌های گوناگون و بسیار زیادی پدید آید
+
+البته اتم‌کربن می‌تواند با اتم عنصرهای هیدروژن، اکسیژن، نیتروژن و ... به شیوه‌های گوناگون متصل شده و مولکول شمار زیادی از مواد مانند کربوهیدرات‌ها، چربی‌ها، آمینواسیدها، آنزیم‌ها، پروتئین‌ها و..
+
+. اما با افزایش شمار اتم های کربن، بخش ناقطبی مولکول بزرگ تر شده و میزان قطبیت مولکول کاهش می یابد. این روند سبب می شود که الکل های بزرگ تر در آب حل نشوند بلکه در چربی حل شوند
+
+نشده» هستند؛ این درحالی است که اتم کربن تمایل دارد تا از حداکثر امکان خود برای تشکیل پیوندهای یگانه استفاده کند و چهار پیوند یگانه تشکیل دهد",5,3,2,6.2,"{'faithfulness_analysis': 'The generated answer is a direct quotation from the retrieved context: ""این ویژگی\u200cهای کربن سبب شده تا از این عنصر ترکیب\u200cهای گوناگون و بسیار زیادی پدید آید."" No additional claims are introduced, so every statement is supported by the context.', 'answer_relevance_analysis': ""The answer mentions that carbon's features lead to many different compounds, which aligns with the core idea. However, it does not explain the specific reasons (ability to form single, double, triple bonds, chains, rings) nor does it contrast with nitrogen's limitation, which are essential parts of the ground‑truth answer. Therefore the answer is only partially correct."", 'context_relevance_analysis': ""The retrieved context includes a vague statement about carbon's ability to generate many compounds and a brief note that nitrogen's known compounds are limited. It lacks detailed information about carbon's multiple bond types and structural versatility, which are crucial for a complete answer. Hence the context is missing key facts needed for a full explanation.""}"
+FAISS,24,multi-hop,2,medium,چرا در دمای ۷۵°C تخم‌مرغ درون آب می‌پزد اما درون روغن زیتون با جرم برابر تغییر محسوسی نمی‌کند؟,آب به‌دلیل ظرفیت گرمایی بیشتر، برای همان مقدار تغییر دما گرمای بیشتری جذب می‌کند و همین گرمای بیشتر سبب پختن تخم‌مرغ می‌شود؛ روغن زیتون با ظرفیت گرمایی کمتر در همان دما و زمان چنین توانی ندارد.,در واقع روغن زیتون با ظرفیت گرمایی کمتر توانایی پختن تخم مرغ را با این تغییر دما در همین زمان نخواهد داشت.,"الف) توضیح دهید چرا تخم مرغ در آب می پزد اما در روغن زیتون تغییر محسوسی نمی کند
+
+<!-- PAGE: 65 -->
+شکل ۲- تخم‌مرغ درون آب (الف) و روغن زیتون (ب) با دمای ۷۵˚C
+
+تخم‌مرغ در این دما درون آب پخته می‌شود اما درون روغن زیتون تغییر محسوسی نخواهد کرد. آیا می‌دانید علت این پدیده چیست؟
+
+. در واقع روغن زیتون با ظرفیت گرمایی کمتر توانایی پختن تخم مرغ را با این تغییر دما در همین زمان نخواهد داشت
+
+در مقایسه با روغن زیتون در همین دما را توضیح ۷۵˚C ‌مرغ در آب‌توان پختن تخماینک می داد. با اینکه جرم هر دو مایع در این آزمایش برابر است اما آب به دلیل داشتن ظرفیت گرمایی
+
+الف) با توجه به اینکه در آزمایش ۱ و ۲، نوع ماده ای که می‌سوزد یکسان است، چرا تغییر دمای آب تفاوت دارد؟",5,3,4,8.02,"{'faithfulness_analysis': 'The generated answer repeats a sentence that appears verbatim in the retrieved context: ""روغن زیتون با ظرفیت گرمایی کمتر توانایی پختن تخم مرغ را ..."" No additional claims are introduced, so all statements are directly supported by the context.', 'answer_relevance_analysis': 'The ground truth explains both sides: water’s higher heat capacity supplies more heat to the egg, while oil’s lower heat capacity cannot. The generated answer only mentions the oil side, omitting the explanation for water. Therefore it captures part of the correct reasoning but is incomplete.', 'context_relevance_analysis': 'The retrieved context includes the necessary facts about both water’s higher heat capacity and oil’s lower heat capacity, along with some extra surrounding text. All required information is present, with only minor irrelevant material.'}"
+FAISS,25,multi-hop,2,hard,در واکنش‌های گرماده‌ای که در دمای ثابت انجام می‌شوند، گرمای آزادشده از چه تفاوتی در مواد ناشی می‌شود و در فشار ثابت با چه کمیتی هم‌ارز است؟,گرمای آزادشده ناشی از تفاوت انرژی گرمایی مواد نیست (در دمای ثابت تفاوت چشمگیری میان انرژی گرمایی آنها وجود ندارد)، بلکه از تفاوت انرژی پتانسیل مواد واکنش‌دهنده و فراورده ناشی می‌شود. این گرما در فشار ثابت با تغییر آنتالپی واکنش (ΔH = Qp) هم‌ارز است.,"گرمای آزادشده ناشی از تفاوت انرژی گرمایی‌ها در مواد دهنده و فراورده نیست.
+","شکل ۴- نمونه‌ای از انجام یک واکنش گرماده در دمای ثابت
+
+در دمای ثابت انجام می‌شود، اما چرا با وجود ۵۰=۰(واکنش برابر است دادوستد گرما میان سامانه واکنش و محیط پیرامون، دما ثابت می‌ماند
+
+‌دهد که این مقدار گرمای آزادشده ناشی از تفاوت انرژی گرمایی‌ها نشان میپژوهش ‌دهنده و فراورده نیست
+
+! زیرا در دمای ثابت، (مجموع انرژی جنبشی ذره‌ها) در مواد واکنش ‌ها گرمای جذب یا آزادشده ‌دانتفاوت چشمگیری میان انرژی گرمایی آنها وجود ندارد
+
+الف) با توجه به اینکه در آزمایش ۱ و ۲، نوع ماده ای که می‌سوزد یکسان است، چرا تغییر دمای آب تفاوت دارد؟",5,3,2,8.35,"{'faithfulness_analysis': 'The generated answer states that the released heat is not due to the difference in thermal energies of the reactants and products. This claim is directly supported by the retrieved context, which explicitly says that the heat is not caused by a difference in thermal (kinetic) energy. No additional or unsupported facts are introduced.', 'answer_relevance_analysis': 'The ground‑truth answer requires two pieces of information: (1) the heat originates from the difference in potential energy (not thermal energy) of reactants and products, and (2) at constant pressure this heat equals the change in enthalpy (ΔH = Qp). The generated answer only provides the first negative part (heat is not from thermal energy) and omits both the positive explanation about potential energy and the enthalpy equivalence. Therefore it captures only a fragment of the correct answer, making it partially correct but missing key components.', 'context_relevance_analysis': 'The retrieved context contains the statement that the heat is not due to thermal energy differences, which supports the fragment given in the answer. However, it does not include the crucial facts about potential energy differences or the equivalence to enthalpy change at constant pressure. Hence the context is missing essential information needed for a complete answer.'}"
+FAISS,26,multi-hop,2,hard,چرا واکنش گاز هیدروژن با گاز کلر (تولید HCl) گرماده است؟ پاسخ را بر پایهٔ انرژی پیوندها توضیح دهید.,برای شکستن پیوندهای H–H (۴۳۶ kJ/mol) و Cl–Cl (۲۴۲ kJ/mol) مجموعاً ۶۷۸ کیلوژول انرژی مصرف می‌شود، اما تشکیل پیوندهای H–Cl در دو مول HCl ۸۶۲ کیلوژول انرژی آزاد می‌کند. چون انرژی آزادشده از انرژی مصرف‌شده بیشتر است، ΔH واکنش برابر ۱۸۴- کیلوژول و واکنش گرماده است.,در واکنش سوختن هیدروژن با کلر، انرژی پیوندهای شکسته شده و انرژی پیوندهای تشکیل شده را می‌توان با یکدیگر مقایسه کرد.,"در واکنش سوختن هیدروژن با کلر، انرژی پیوندهای شکسته شده و انرژی پیوندهای تشکیل شده را می‌توان با یکدیگر مقایسه کرد
+
+.با انجام واکنش میان آنها افزون بر گاز هیدروژن کلرید، گرمای زیادی نیز تولید می ‌رسد، گرمای می۲۵˚C ‌دهد هنگامی که دمای سامانه پس از انجام واکنش بهآزمایش نشان می )
+
+ب) پیش‌بینی کنید در شرایط یکسان کدام هالوژن واکنش‌پذیرتر است. چرا؟
+
+H۲(g) + ۱ O۲(g) H۲O(l) H = -۲۸۶ kJ
+
+۲H۲O۲(l) ۲H۲O(l) + O۲(g) H = -۱۹۶kJ
+
+ب) توضیح دهید چرا تهیۀ این ماده از واکنش مستقیم گازهای هیدروژن و اکسیژن ممکن نیست؟
+
+نمودار ۷- الگویی برای واکنش \( H_2 \) با \( Cl_2 \) و تولید HCl",5,2,2,7.65,"{'faithfulness_analysis': 'The generated answer only states that the bond energies of broken and formed bonds can be compared, which is directly supported by the retrieved context. No additional facts are introduced.', 'answer_relevance_analysis': 'The answer does not explain why the reaction is exothermic; it lacks the quantitative comparison (energy required to break H–H and Cl–Cl vs. energy released forming H–Cl) and the resulting negative ΔH. Therefore it fails to answer the question adequately.', 'context_relevance_analysis': 'The retrieved context mentions comparing bond energies and that heat is produced, but it does not provide the necessary numeric bond energy values or the net enthalpy change. A crucial fact needed for a complete answer is missing.'}"
+FAISS,27,multi-hop,2,medium,چرا برای تعیین ΔH واکنش تشکیل متان از گرافیت و هیدروژن از قانون هس استفاده می‌شود و این قانون چه می‌گوید؟,تأمین شرایط بهینهٔ این واکنش بسیار دشوار و پرهزینه است و نمی‌توان ΔH آن را مستقیم و تجربی اندازه گرفت. بر اساس قانون هس، اگر معادلهٔ واکنشی را بتوان از جمع معادلهٔ دو یا چند واکنش دیگر به دست آورد، ΔH آن از جمع جبری ΔH همان واکنش‌ها به دست می‌آید؛ پس از ΔH واکنش‌های سوختن گرافیت، هیدروژن و متان استفاده می‌شود.,"امروزه از این نتیجه با نام قانون هس یاد می ‌صورت زیراست: ‌، بهH ‌ها معروف است. بیان علمی قانون هس براساس مفهوم گرمای واکنش از واکنش‌های ترموشیمیایی می‌توانند واکنش سوختن یک مول گرافیت، یک مول گاز هیدروژن و یک مول گاز متان باشند که معادلهٔ هریک از آنها در 25˚C به صورت زیر است:
+","C(s ، + (گرافیت 2H(g) CH(g) ΔH = ?
+
+. امروزه از این نتیجه با نام قانون هس یاد می ‌صورت زیراست: ‌، بهH ‌ها معروف است. بیان علمی قانون هس براساس مفهومگرمای واکنش
+
+. این واکنش‌های ΔH از واکنش‌های دیگری بهره برد که ترموشیمیایی می‌توانند واکنش سوختن یک مول گرافیت، یک مول گاز هیدروژن و یک مول گاز متان باشند که معادلهٔ هریک از آنها در 25˚C به صورت زیر است:
+
+؟ شیمی‌ در سنگ معدن شناسایی و به چه روشی می ‌های ‌ها را بیابند
+
+نخستین بار هنری هس دریافت که گرمای یک واکنش معین به راهی که برای انجام آن درپیش گرفته می‌شود، وابسته نیست",5,3,2,15.8,"{'faithfulness_analysis': ""The generated answer only repeats sentences that appear in the retrieved context (definition of Hess's law and mention of combustion reactions). No claim is introduced that is absent from the context, so it is fully faithful to the provided material."", 'answer_relevance_analysis': ""The ground‑truth answer requires two pieces: (1) the practical reason for using Hess's law (direct measurement of ΔH for methane formation is difficult/expensive) and (2) the statement of Hess's law (enthalpy is a state function and can be summed from component reactions). The generated answer provides only the second part (the law’s statement) and omits the reason why the law is used. Therefore it is only partially correct."", 'context_relevance_analysis': ""The retrieved context contains the definition of Hess's law and the list of combustion reactions, which are needed for the law statement. However, it does not contain the crucial information that the direct experimental determination of ΔH for methane formation is hard and costly. Hence the context is missing an essential fact required to answer the question fully.""}"
+FAISS,28,multi-hop,2,medium,چرا هم خشک‌کردن میوه‌ها و هم افزودن نگهدارنده‌هایی مانند بنزوئیک اسید زمان ماندگاری غذا را افزایش می‌دهند؟,در محیط مرطوب میکروب‌ها رشد و تکثیر می‌کنند و ماده غذایی فاسد می‌شود؛ در محیط خشک چنین رشدی ممکن نیست، پس خشک‌کردن ماندگاری را بالا می‌برد. نگهدارنده‌ها نیز سرعت واکنش‌های شیمیایی را که به فساد ماده غذایی می‌انجامد کاهش می‌دهند.,وجود پوست و پوشش میوه‌ها و خشکبار یک عامل طبیعی برای افزایش زمان ماندگاری است زیرا مانع از ورود اکسیژن و جانداران ذره‌بینی به درون آنها می‌شود. همچنین برای طعم دادن به غذای خود، نمک به دست آمده از خشکی و دریا را روی آن پاشیده‌اید؛ سبزیجات و میوه‌هایی را خورده‌اید که با استفاده از کودهای پتاسیم، نیتروژن و فسفردار رشد کرده‌اند.,". وجود پوست و پوشش میوه‌ها و خشکبار یک عامل طبیعی برای افزایش زمان ماندگاری است زیرا مانع از ورود اکسیژن و جانداران ذره‌بینی به درون آنها می‌شود
+
+؟ چرا افزایش دما سبب کاهش زمان ماندگاری اغلب مواد غذایی می‌شود؟ اکسیژن
+
+. همچنین برای طعم دادن به غذای خود، نمک به دست آمده از خشکی و دریا را روی آن پاشیده‌اید؛ سبزیجات و میوه‌هایی را خورده‌اید که با استفاده از کودهای پتاسیم، نیتروژن و فسفردار رشد کرده‌اند
+
+پیشرفت علوم تجربی سبب شده تا برای افزایش زمان ماندگاری مواد غذایی و بهبود کیفیت آنها از روش‌های گوناگونی مانند تهیهٔ کنسرو، بسته‌بندی نوین، افزودن نگهدارنده‌ها و ... استفاده شود
+
+؟ تاریخ مصرف مواد غذایی نشان می‌دهد که چه مدتی سالم می‌ماند و قابل‌مصرف است",5,1,2,19.67,"{'faithfulness_analysis': 'All statements in the generated answer are directly taken from the retrieved context (the barrier effect of skin/coating and the mention of salt and fertilizers). No new facts are introduced, so the answer is fully faithful to the provided context.', 'answer_relevance_analysis': 'The question asks why drying fruits and adding preservatives like benzoic acid extend shelf life. The ground‑truth answer explains the role of reduced moisture preventing microbial growth and preservatives slowing chemical reactions. The generated answer only repeats a sentence about skin acting as a barrier and adds irrelevant information about salt and fertilizers, failing to address drying or the chemical action of preservatives. Hence it does not answer the question.', 'context_relevance_analysis': 'The retrieved context mentions a natural barrier (skin) and that preservatives are used, but it does not contain the essential explanation that drying removes water to inhibit microbial growth nor that preservatives reduce the rate of spoilage reactions. Therefore a crucial fact needed for a correct answer is missing.'}"
+FAISS,29,multi-hop,2,medium,نگهدارنده‌های غذایی و بازدارنده‌های طبیعی موجود در میوه و سبزی چه نقش مشترکی در سرعت واکنش‌ها دارند؟,هر دو سرعت واکنش‌های نامطلوب را کاهش می‌دهند: نگهدارنده‌ها سرعت واکنش‌هایی را که به فساد غذا می‌انجامد کم می‌کنند و بازدارنده‌های طبیعی (ریزمغذی‌های سیرنشده) با به‌دام‌انداختن رادیکال‌ها از سرعت واکنش‌های ناخواسته در بدن می‌کاهند.,دانشمندان و شیمی‌دان‌ها را بر آن داشت تا بررسی کنند چه موادی در سبزیجات و میوه‌ها این مهم را به عهده دارند.,"دانشمندان و شیمی‌دان‌ها را بر آن داشت تا بررسی کنند چه موادی در سبزیجات و میوه‌ها این مهم را به عهده دارند
+
+ت) سرعت متوسط مصرف رنگ غذا را بر حسب مول بر دقیقه حساب کنید.
+
+## پیوند با زندگی
+
+## خوراکی‌های طبیعی رنگین، بازدارنده‌هایی مفید و مؤثر
+
+؟ چگونه می توان بو و مزه مواد خوراکی را تغییر دارد یا بهبود بخشید؟ برای تولید بیشتر و سریع تر مواد غذایی چه راه هایی وجود دارد؟ آیا انرژی موجود در مواد غذایی یکسان است؟
+
+با مراجعه به منابع علمی معتبر دربارهٔ ساختار و نقش بازدارنده‌هایی مانند فالوونوئید، آنتوسیانین، بتاکاروتن و ... در میوه‌ها و سبزیجات محتوی آنها اطالعاتی جمع‌آوری و در .کالس ارائه کنید
+
+. وجود پوست و پوشش میوه‌ها و خشکبار یک عامل طبیعی برای افزایش زمان ماندگاری است زیرا مانع از ورود اکسیژن و جانداران ذره‌بینی به درون آنها می‌شود",5,1,1,11.87,"{'faithfulness_analysis': 'The generated answer is a direct quote from the retrieved context and does not introduce any new information. All claims are present in the context, so it is fully faithful to the provided material.', 'answer_relevance_analysis': 'The question asks about the shared role of food preservatives and natural inhibitors on reaction rates. The generated answer merely repeats a generic statement about scientists studying substances in fruits and vegetables and does not address the role at all. It fails to provide the correct information from the ground truth, making it irrelevant to the question.', 'context_relevance_analysis': 'The retrieved context does not contain the necessary fact that both preservatives and natural inhibitors reduce undesirable reaction rates. It only includes unrelated discussion about scientists, colors, and other topics, so the required information is missing.'}"
+FAISS,30,multi-hop,3,medium,سلولز موجود در پنبه و پلی‌اتن هر دو درشت‌مولکول‌اند؛ منشأ و روش تهیهٔ آنها چه تفاوتی دارد؟,سلولز یک درشت‌مولکول طبیعی است که الیاف پنبه از آن تشکیل شده و زنجیری بسیار بلند از اتصال شمار بسیار زیادی مولکول گلوکز است. پلی‌اتن درشت‌مولکولی ساختگی است که در طبیعت یافت نمی‌شود و از واکنش پلیمری‌شدن (بسپارش) تهیه می‌شود.,الیاف پنبه از سلولز تشکیل شده که از اتصال شمار بسیار زیادی مولکول گلوکز به یکدیگر ساخته می‌شود. پلی‌اتن از واکنش پلیمری شدن (بسپارش) تهیه می‌شود.,"... استفاده می‌شود. می‌دانید که الیاف پنبه از سلولز تشکیل شده، زنجیری بسیار بلند که از اتصال شمار بسیار زیادی مولکول گلوکز به یکدیگر ساخته می‌شود (شکل ۳)
+
+. درشت مولکول‌های دیگری مانند پلی‌اتن، نایلون، تفلون و... نیز وجود دارند که در طبیعت یافت نمی‌شوند و ساختگی هستند. این مواد از واکنش پلیمری شدن (بسپارش) تهیه می‌شوند.
+
+| پلی اتن | بسیار | بسیار |
+| پروپان | کم | کم |
+| نشاسته گندم | متوسط | متوسط |
+| انسولین | متوسط | متوسط |
+| سلولز | بسیار | بسیار |
+| روغن زیتون | کم | کم |
+
+این پلیمرها را از فراورده‌های کشاورزی مانند سیب‌زمینی، ذرت و نیشکر تهیه می‌کنند
+
+پلی اتن مذاب را در دستگاهی با عمل دمیدن هوا به ورقهٔ نازک پالستیکی تبدیل می‌کنند.",5,4,4,12.57,"{'faithfulness_analysis': 'Both statements in the generated answer are directly supported by the retrieved context: the description of cotton fibers being made of cellulose composed of many glucose molecules, and the statement that polyester is obtained via a polymerization (condensation) reaction. No external facts are introduced.', 'answer_relevance_analysis': 'The answer captures the main difference: cellulose comes from cotton fibers (natural) and polyester is produced by polymerization (synthetic). It omits the explicit labeling of cellulose as a natural macromolecule and polyester as an artificial one, which are present in the ground truth. Hence the answer is mostly correct but missing a minor detail.', 'context_relevance_analysis': 'The retrieved context provides the necessary facts about both cellulose and polyester, but also includes unrelated material such as a table and extra sentences. Therefore it contains the required information plus some noise.'}"
+FAISS,31,multi-hop,3,medium,پلی‌استر از واکنش چه موادی و بر پایهٔ کدام واکنش ساخته می‌شود؟,پلی‌استر از واکنش یک کربوکسیلیک اسید دو عاملی با یک الکل دو عاملی ساخته می‌شود. بنیان آن واکنش استری‌شدن است که در آن گروه کربوکسیل با گروه هیدروکسیل ترکیب شده و با از دست‌دادن آب گروه استری پدید می‌آید؛ ادامهٔ این روند مولکولی با زنجیر بلند و شمار زیادی عامل استری (پلی‌استر) می‌دهد.,پلی‌استر از واکنش کربوکسیلیک اسید دو عاملی با یک الکل دو عاملی ساخته می‌شود. این پلیمرها از فراورده‌های کشاورزی مانند سیب‌زمینی، ذرت و نیشکر تهیه می‌شوند و بر پایهٔ واکنش پلیمری شدن ساخته می‌شوند.,"اکنون با توجه به واکنش استری شدن، می توان نتیجه گرفت که از واکنش یک کربوکسیلیک اسید دو عاملی با یک الکل دو عاملی در شرایط مناسب، یک پلی استر تولید می شود
+
+این پلیمرها را از فراورده‌های کشاورزی مانند سیب‌زمینی، ذرت و نیشکر تهیه می‌کنند
+
+به واکنش‌دهنده‌ها در واکنش پلیمری شدن، ۱ (تک‌پار) می‌گویند. در این واکنش‌ها ۴ شمار زیادی از مونومرها با یکدیگر واکنش می‌دهند و پلیمر را می‌سازند
+
+شکل ۱۴- ب) الگویی واکنش تشکیل پلی استر
+
+. درشت مولکول‌های دیگری مانند پلی‌اتن، نایلون، تفلون و... نیز وجود دارند که در طبیعت یافت نمی‌شوند و ساختگی هستند. این مواد از واکنش پلیمری شدن (بسپارش) تهیه می‌شوند.",5,3,4,12.54,"{'faithfulness_analysis': 'All statements in the generated answer are found in the retrieved context: the reactants (difunctional carboxylic acid and difunctional alcohol), the use of agricultural raw materials, and the mention of polymerization. No external facts are introduced.', 'answer_relevance_analysis': 'The answer correctly identifies the reactants but incorrectly states that polyester is based on a polymerization reaction, whereas the ground truth specifies the esterification (استری شدن) reaction. Thus the core reaction is missing/wrong, making the answer only partially correct.', 'context_relevance_analysis': 'The retrieved context provides the necessary facts about the reactants and the esterification reaction, but also contains additional unrelated information (e.g., agricultural sources, generic polymerization details). Hence it is mostly relevant with some noise.'}"
+FAISS,32,multi-hop,3,medium,واکنش تولید پلی‌آمید چه تفاوتی با واکنش تولید پلی‌استر دارد؟,واکنش پلی‌آمید شبیه تولید پلی‌استر است، با این تفاوت که به‌جای گروه عاملی الکل، گروه عاملی آمین با گروه کربوکسیل واکنش می‌دهد (و گروه آمیدی تشکیل می‌شود).,واکنش تولید پلی‌آمید شبیه به تولید پلی‌استر است با این تفاوت که به جای گروه عاملی )الف. ۱۷-الکل، گروه عاملی آمین با گروه کربوکسیل واکنش می‌دهد.,"واکنش تولید پلی آمید شبیه به تولید پلی استر است با این تفاوت که به جای گروه عاملی )الف. ۱۷-الکل، گروه عاملی آمین با گروه کربوکسیل واکنش می‌دهد (شکل
+
+شکل ۱۷- الف) تشکیل گروه آمیدی
+
+پلی‌آمیدهای ساختگی را در صنایع پتروشیمی از واکنش دی‌آمین‌ها با دی اسیدها تولید یکی از معروف‌ترین پلی‌آمیدها است. این پلیمر از فوالد هم جرم خود پنج‌برابر مقاوم‌تر است
+
+‌دهد که این مقدار گرمای آزادشده ناشی از تفاوت انرژی گرمایی‌ها نشان میپژوهش ‌دهنده و فراورده نیست
+
+. بنابراین جنس لباس، در مدت زمان استفاده از آن مؤثر است. تجربه نشان می‌دهد که به‌طور کلی واکنش آبکافت پلی استرها و پلی‌آمیدها بسیار کند است
+
+پلیمری شدن واکنشی است که در آن مولکول‌های کوچک در شرایط مناسب به یکدیگر متصل می‌شوند و مولکول‌هایی با زنجیرهای بلند و جرم مولی زیاد تولید می‌کنند",5,4,4,12.44,"{'faithfulness_analysis': 'The generated answer repeats the statement found in the retrieved context verbatim and does not introduce any new facts. All claims are directly supported by the context.', 'answer_relevance_analysis': 'The answer captures the main difference between polyamide and polyester synthesis as stated in the ground truth. It omits the parenthetical note that an amide group is formed, which is a minor detail, so the answer is mostly correct but not fully complete.', 'context_relevance_analysis': 'The retrieved context includes the exact sentence needed to answer the question, but it also contains additional unrelated sentences about polyamides and other topics, making it slightly noisy.'}"
+FAISS,33,multi-hop,3,hard,چرا با اینکه پیوند استری در محیط می‌تواند شکسته شود و الیاف را سست کند، لباس‌های پلی‌استری و پلی‌آمیدی مدت‌های طولانی استحکام خود را حفظ می‌کنند؟,شکستن پیوندهای استری یا آمیدی استحکام الیاف پارچه را کم می‌کند، اما واکنش آب‌کافت پلی‌استرها و پلی‌آمیدها به‌طور کلی بسیار کند است؛ بنابراین لباس‌های ساخته‌شده از این پارچه‌ها برای مدت‌های طولانی قابل استفاده‌اند.,به دلیل استحکام خود را حفظ می‌کنند,"هرچند پلی استرها و پلی‌آمیدها شکسته می‌شوند، اما آهنگ این واکنش‌ها به ساختار مونومرهای سازنده بستگی دارد. بنابراین جنس لباس، در مدت زمان استفاده از آن مؤثر است
+
+پوشاک و پوشش‌های تهیه شده از این مواد در طبیعت تجزیه نمی‌شوند و برای سالیان طولانی دست نخورده باقی می‌مانند
+
+. به همین دلیل لباس‌های تهیه شده از این نوع پارچه‌ها برای مدت‌های طولانی قابل استفاده است زیرا استحکام خود را حفظ می‌کنند
+
+۵ ـ لباس‌های پلی‌استری در اثر عوامل محیطی در طول زمان پوسیده می‌شوند. این پوسیده شدن به معنی شکستن پیوندهای استری و سست شدن تار و پود لباس است
+
+؟ چه ساختاری دارند؟ چه رابطه‌ای بین ساختار و رفتار آنها وجود دارد؟ آیا شناخت ویژگی‌های ماده و به‌ویژه ترکیب‌های آلی می‌تواند به تولید الیاف جدید منجر شود",5,1,4,5.67,"{'faithfulness_analysis': 'The generated answer states only ""به دلیل استحکام خود را حفظ می\u200cکنند"". This exact claim appears in the retrieved context (""... زیرا استحکام خود را حفظ می\u200cکنند""). No external facts are introduced, so the claim is fully supported by the context.', 'answer_relevance_analysis': 'The ground truth explains that the reason polyester and polyamide retain strength is that hydrolysis of ester/amid bonds is very slow. The generated answer provides no such explanation; it merely repeats the conclusion that the fabrics keep their strength, which does not answer the ""why"". Therefore it fails to address the core of the question.', 'context_relevance_analysis': 'The retrieved context includes the necessary explanation about the slow rate of bond-breaking reactions and the durability of the materials, along with some unrelated sentences. The essential facts are present, but there is noticeable noise, so the context is relevant but not perfectly clean.'}"
+FAISS,34,multi-hop,3,medium,نفت‌خام چه ارتباطی با تولید پوشاک و الیاف ساختگی دارد؟,نفت‌خام افزون بر منبع انرژی، مادهٔ اولیه برای تهیهٔ بسیاری از مواد و کالاهاست و بخشی از آن برای تولید الیاف و پارچه به‌کار می‌رود. شیمی‌دان‌ها الیاف ساختگی بر پایهٔ نفت را تولید کردند و اغلب فراورده‌های پتروشیمیایی برای ساخت الیافی مانند پلی‌استر و نایلون به کار می‌روند.,با گذشت زمان تلاش شیمی‌دان‌ها نتیجه داد و در طول چند دهه، انواع گوناگونی از الیاف ساختگی بر پایۀ نفت، شناسایی و تولید شد؛ الیافی که جایگزین الیاف طبیعی شد و امروزه بخش عمده پوشاک را تشکیل می‌دهد.,". با گذشت زمان تالش شیمی‌دان‌ها نتیجه داد و در طول چند دهه، انواع گوناگونی از الیاف ساختگی بر پایۀ نفت، شناسایی و تولید شد؛ الیافی که جایگزین الیاف طبیعی شد و امروزه بخش عمده پوشاک را تشکیل می‌دهد
+
+؟ جداسازی آنها از نفت‌خام بر چه مبنایی و با چه دستگاهی انجام می‌شود؟
+
+شکل‌های گوناگون مصرف می‌شود.
+
+کمتر از ده درصد از نفت خام مصرفی در دنیا برای تولید الیاف و پارچه، شوینده‌ها، مواد آرایشی و بهداشتی، رنگ، پلاستیک، مواد منفجره و الستیک به کار می‌رود.
+
+. پاالیش نفت خام، از سویی سوخت ارزان و مناسب را در اختیار صنایع قرار می داد و از سوی دیگر، منجربه تولید انرژی الکتریکی ارزان قیمت می شد
+
+الیاف ساختگی، الیافی هستند که در طبیعت یافت نمی‌شود بلکه از واکنش بین مواد شیمیایی در شرکت‌های پتروشیمی تولید می‌شوند",5,4,4,14.67,"{'faithfulness_analysis': 'The generated answer repeats the sentence from the retrieved context about synthetic fibers being based on oil and forming the majority of clothing. No new facts are introduced; all claims are directly supported by the context.', 'answer_relevance_analysis': 'The answer correctly states that oil-derived synthetic fibers replace natural fibers and now dominate clothing, which matches the core of the ground truth. It omits additional details from the ground truth (e.g., oil as an energy source, specific petrochemical products like polyester and nylon), so it is missing minor information.', 'context_relevance_analysis': 'The retrieved context includes the necessary statement linking crude oil to synthetic fibers and clothing, but also contains unrelated sentences about percentages, fuel, etc. Hence it provides the needed facts plus some noise.'}"
+FAISS,35,multi-hop,3,hard,از دیدگاه توسعهٔ پایدار، چرا پلیمرهای زیست‌تخریب‌پذیر مانند پلی‌الکتیک اسید بر پلیمرهای نفتی برتری دارند؟,پلیمرهای حاصل از هیدروکربن‌های سیرنشده تمایلی به واکنش ندارند و سال‌ها در طبیعت باقی می‌مانند و محیط زیست را به گورستان زباله تبدیل می‌کنند. پلیمرهای زیست‌تخریب‌پذیر پس از چند ماه توسط جانداران ذره‌بینی به مولکول‌های ساده‌ای مانند آب و کربن دی‌اکسید تبدیل می‌شوند، امکان تبدیل شدن به کود را دارند و ردپای کوچک‌تری بر جای می‌گذارند.,"در شیمی دهم آموختید که بر اساس توسعهٔ پایدار باید در تولید یک ماده یا عرضه خدمات، همهٔ هزینه‌ها و مالحظه‌های اقتصادی، اجتماعی و زیست محیطی را در نظر گرفت. به همین دلیل به پلیمرهای دوستدار محیط زیست یا پلیمرهای سبز معروف هستند.
+",". جایگزینی پلیمرهای ساختگی با پایهٔ نفتی با پلیمرهای زیست تخریب پذیر، راهکار دیگری است که در دو دهه اخیر مورد توجه همهٔ جهانیان قرار گرفته است.
+
+. در واقع پلیمرهای ماندگارند. علت این است که این پلیمرها، ساختاری شبیه به آلکان‌ها دارند و سیر شده هستند
+
+● شیر ترش‌شده دارای الکتیک اسید است.
+
+> ## آیا می دانید
+>
+> از پلیمرهای زیست تخریب‌پذیر برای بخیه زدن استفاده می‌شود.
+
+. در شیمی دهم آموختید که بر اساس توسعهٔ پایدار باید در تولید یک ماده یا عرضه خدمات، همهٔ هزینه‌ها و مالحظه‌های اقتصادی، اجتماعی و زیست محیطی را در نظر گرفت
+
+. به همین دلیل به پلیمرهای دوستدار محیط زیست یا پلیمرهای سبز معروف هستند.",5,2,3,13.94,"{'faithfulness_analysis': 'All statements in the generated answer are directly taken from the retrieved context: the need to consider economic, social, and environmental costs in sustainable development, and the naming of such polymers as green polymers. No new facts are introduced.', 'answer_relevance_analysis': 'The question asks why biodegradable polymers like polylactic acid are superior to petroleum‑based polymers from a sustainable development viewpoint. The ground‑truth answer emphasizes biodegradability, conversion to harmless substances, and smaller environmental footprint. The generated answer only repeats a generic sustainability principle and the label ""green polymers"" without mentioning degradation, persistence, or environmental impact, thus failing to address the core reason for superiority.', 'context_relevance_analysis': 'The retrieved context mentions that petroleum polymers are persistent (non‑degradable) and that biodegradable polymers are considered environmentally friendly. However, it lacks the specific details about rapid biodegradation to water and CO₂, fertilizer potential, and reduced ecological footprint that are required to fully answer the question. Therefore the context provides partial but not complete information.'}"
+FAISS,36,conceptual,1,easy,چرا در یک گروه از جدول دوره‌ای، از بالا به پایین شعاع اتمی افزایش می‌یابد؟,زیرا از بالا به پایین در یک گروه، تعداد لایه‌های الکترونی اتم‌ها بیشتر می‌شود و در نتیجه شعاع اتمی افزایش می‌یابد.,زیرا تعداد الیه‌های الکترونی بیشتر می‌شود.,"یکی دیگر از روندهای تناوبی، روند تغییر شعاع اتمی عنصرهای جدول دوره ای است. در یک گروه، از باال به پایین شعاع اتمی افزایش می‌یابد، زیرا تعداد الیه‌های الکترونی بیشتر می‌شود
+
+در هر دوره از جدول دوره‌ای، از چپ به راست از خاصیت فلزی کاسته و به خاصیت نافلزی افزوده می‌شود
+
+. به شناخته شده از دیگر عنصرهای جدول دوره‌ای بیشتر است. دلیل این رفتار ویژه چیست
+
+. در حالی‌که در یک دوره، شعاع اتمی عنصرها از چپ به راست کاهش می‌یابد؛ زیرا در یک دوره، تعداد الیه‌های الکترونی ثابت می‌ماند در حالی‌که تعداد پروتون‌های هسته افزایش می‌یابد
+
+نمودار ۱- تغییر شعاع اتمی در دوره سوم جدول دوره ای",5,5,4,6.3,"{'faithfulness_analysis': 'The generated answer states that the atomic radius increases because the number of electron shells increases. This exact claim is directly present in the retrieved context (""زیرا تعداد الیه\u200cهای الکترونی بیشتر می\u200cشود""). No additional facts are introduced, so the answer is fully faithful to the context.', 'answer_relevance_analysis': 'The ground truth explains that the increase in electron shells leads to a larger atomic radius. The generated answer provides the causal part of this explanation (increase in electron shells). This sufficiently answers the why‑question and aligns with the ground truth, missing only the explicit mention of the resulting radius increase, which is implied by the question itself. Hence the answer is essentially correct.', 'context_relevance_analysis': 'The retrieved context includes the necessary statement linking the increase in electron shells to the increase in atomic radius, which is the exact information required. However, the context also contains additional unrelated sentences about other periodic trends, introducing noise. Therefore the context is relevant but not perfectly clean.'}"
+FAISS,37,conceptual,1,medium,چرا در عمل مقدار فراوردهٔ به‌دست‌آمده از یک واکنش شیمیایی معمولاً کمتر از مقدار پیش‌بینی‌شده با محاسبه است؟,زیرا ممکن است واکنش‌دهنده‌ها ناخالص باشند، واکنش به‌طور کامل انجام نشود یا هم‌زمان واکنش‌های ناخواستهٔ دیگری رخ دهد. به همین دلیل مقدار واقعی فراورده از مقدار مورد انتظار کمتر است و بازده درصدی واکنش‌ها کمتر از صد است.,با این توصیف مقدار واقعی فراورده از مقدار مورد انتظار کمتر است. در واقع بازده درصدی واکنش‌های شیمیایی از صد کمتر است. این در حالی است که بر اساس محاسبه، انتظار می‌رفت ۲۸ گرم فراورده (فلز آهن) تولید شود. اما هر بار جرمی که این دانشجو به‌دست آورده از جرم مورد انتظار کمتر است.,". با این توصیف مقدار واقعی فراورده از مقدار مورد انتظار کمتر است. در واقع بازده درصدی واکنش‌های شیمیایی از صد کمتر است.
+
+این در حالی است که بر اساس محاسبه، انتظار می‌رفت ۲۸ گرم فراورده (فلز آهن) تولید شود. اما هر بار جرمی که این دانشجو به‌دست آورده از جرم مورد انتظار کمتر است
+
+اینک می‌پذیرید که واکنش‌های شیمیایی در طبیعت، صنعت و آزمایشگاه با سرعت‌های متفاوتی انجام می‌شوند
+
+واکنش‌های شیمیایی همیشه مطابق آنچه انتظار می‌رود پیش نمی‌روند، زیرا ممکن است واکنش‌دهنده‌ها ناخالص باشند یا ممکن است واکنش به‌طور کامل انجام نشود، حتی گاهی نیز هم‌زمان با آن، واکنش‌های ناخواستهٔ
+
+«به‌طور کلی در هر واکنش شیمیایی که به‌طور طبیعی انجام می‌شود، واکنش‌پذیری ‌ها کمتر است.»فراورده‌ها از واکنش‌دهنده
+
+۱-FeO(s) + 2Na(s) Na۲O(s) + Fe(s) ۲-FeO(s) + Cu(s) Fe(s) + CuO(s)",5,2,4,16.18,"{'faithfulness_analysis': 'All statements in the generated answer are directly taken from the retrieved context: it repeats that the actual product amount is less than expected and that percent yield is below 100%, and mentions the 28\u202fg example. No new facts are introduced, so the answer is fully supported by the context.', 'answer_relevance_analysis': 'The question asks for the reasons why the actual product amount is usually lower than the calculated amount. The ground‑truth answer lists impurity of reactants, incomplete reaction, and side reactions. The generated answer only restates the observation that the yield is lower and gives an example, but it does not provide any causal explanation. Therefore it fails to answer the core of the question.', 'context_relevance_analysis': 'The retrieved context includes the necessary reasons (impure reactants, incomplete reaction, side reactions) as well as the observation about lower yield. It also contains some extra sentences unrelated to the core answer, so it is mostly relevant with minor noise.'}"
+FAISS,38,conceptual,1,medium,چرا آلکان‌ها در آب نامحلول‌اند و این ویژگی چه کاربردی در حفاظت از فلزها دارد؟,آلکان‌ها ناقطبی‌اند و در آب نامحلول. قراردادن فلز در آلکان‌های مایع یا اندودکردن سطح آن با آلکان‌ها مانع رسیدن آب به سطح فلز می‌شود و از خوردگی جلوگیری می‌کند.,آلکان‌ها به دلیل ناقطبی بودن در آب نامحلول‌اند. این ویژگی سبب می‌شود تا بتوان از آنها برای حفاظت از فلزها استفاده کرد. به‌طوری‌که قرار دادن فلزها در آلکان‌های مایع یا اندود کردن سطح فلزها و وسایل فلزی با آنها، مانع از رسیدن آب به سطح فلز می‌شود و از خوردگی فلز جلوگیری می‌کند.,"آلکان‌ها به دلیل ناقطبی بودن در آب نامحلول‌اند. این ویژگی سبب می‌شود تا بتوان از آنها برای حفاظت از فلزها استفاده کرد
+
+. به‌طوری‌که قرار دادن فلزها در آلکان‌های مایع یا اندود کردن سطح فلزها و وسایل فلزی با آنها، مانع از رسیدن آب به سطح فلز می‌شود و از خوردگی فلز جلوگیری می‌کند
+
+آلکان‌ها تمایل چندانی به انجام واکنش‌های شیمیایی ندارند
+
+می دانید که متان، ساده ترین هیدروکربن و نخستین عضو خانوادهٔ آلکان ها است و بخش عمدهٔ گاز طبیعی را تشکیل می دهد. این گاز از تجزیه گیاهان به وسیلهٔ باکتری های بی هوازی نیز در زیر آب تولید می شود
+
+. این پوشش، از تبخیر آب میوه و چروکیده شدن آن و از رشد کپک روی میوه‌ها جلوگیری می‌کند و در عین حال میوه را براق می کند. برای جال دادن سیب از آلکان‌های C۳H۸ و C۴H۸ استفاده می‌شود",5,5,4,17.68,"{'faithfulness_analysis': 'All statements in the generated answer (alkanes are non‑polar and insoluble in water; this property allows them to protect metals by preventing water contact and corrosion) are directly stated in the retrieved context. No new facts are introduced.', 'answer_relevance_analysis': 'The answer fully matches the ground‑truth answer: it explains why alkanes are insoluble (non‑polar) and describes their use in metal protection by coating or immersion, preventing water‑induced corrosion. No details are missing or incorrect.', 'context_relevance_analysis': 'The retrieved context provides the necessary facts about non‑polarity, water insolubility, and protective use of alkanes. It also contains unrelated sentences about methane and fruit coating, which are noise but do not affect the required information.'}"
+FAISS,39,conceptual,2,medium,چرا یخچال صحرایی (دو ظرف سفالی با شن خیس میان آنها) محتویات خود را خنک می‌کند؟,آب در بدنهٔ سفالی ظرف بیرونی نفوذ می‌کند و به‌آرامی تبخیر می‌شود. تبخیر یک مول آب به ۴۴/۱ کیلوژول گرما نیاز دارد و جذب این گرما باعث افت دما می‌شود، در نتیجه فضای درونی دستگاه و محتویات آن خنک می‌شود.,"آب در بدنۀ سفالی ظرف بیرونی نفوذ کرده و به آرامی تبخیر می‌شود.
+","، او برای ساخت این دستگاه، دو ظرف سفالی (ساخته شده از خاک رس) را درون۵ مطابق شکل یکدیگر قرار داد و فضای میان آنها را با شن خیس پر کرد
+
+ساختار یخچال صحرایی ۵ شکل
+
+چه رفتاری با مواد غذایی دارد؟ چرا مواد غذایی را باید در محلی تاریک و دور از تابش مستقیم نور خورشید نگه داشت
+
+آیا تاکنون آبی گوارا و خنک از کوزه ‌اید
+
+. درپوش این مجموعه، پوششی نخی و مرطوب است که تهویه را به آسانی انجام می‌دهد. آب در بدنۀ سفالی ظرف بیرونی نفوذ کرده و به آرامی تبخیر می‌شود، معادلۀ انجام این فرایند به صورت زیر است:",5,3,2,6.67,"{'faithfulness_analysis': 'The generated answer repeats the sentence from the retrieved context verbatim: ""آب در بدنۀ سفالی ظرف بیرونی نفوذ کرده و به آرامی تبخیر می\u200cشود."" No additional claims are introduced, so all statements are directly supported by the context.', 'answer_relevance_analysis': 'The ground truth explains that water evaporates and that the latent heat required for evaporation is taken from the interior, causing cooling. The generated answer only mentions the evaporation part and omits the crucial explanation that heat absorption leads to temperature drop. Therefore it captures part of the answer but misses a key component.', 'context_relevance_analysis': 'The retrieved context provides the fact that water penetrates the outer clay and evaporates, but it does not contain the explanation that this evaporation absorbs heat and cools the interior. Hence a crucial fact needed for a complete answer is missing.'}"
+FAISS,40,conceptual,2,medium,چرا بدن ما چربی را بیشتر از کربوهیدرات‌ها ذخیره می‌کند؟,زیرا چربی ارزش سوختی بیشتری از کربوهیدرات‌ها و پروتئین‌ها دارد؛ انرژی حاصل از اکسایش یک گرم چربی (۳۸ kJ) بیشتر از انرژی یک گرم کربوهیدرات یا پروتئین (۱۷ kJ) است.,هر مقدار اضافی از مواد و انرژی دریافتی از مواد غذایی به‌طور عمده به شکل چربی در بدن ذخیره شده و باعث چاقی می‌شود.,". اما پرسش این است که چرا بدن ما، چربی را بیشتر ذخیره می‌کند
+
+. هر مقدار اضافی از مواد و انرژی دریافتی از مواد غذایی به‌طور عمده به شکل چربی در بدن ذخیره شده و باعث چاقی می‌شود.
+
+بدن ما از غذا، مواد گوناگونی دریافت می‌کند
+
+. اما با افزایش شمار اتم های کربن، بخش ناقطبی مولکول بزرگ تر شده و میزان قطبیت مولکول کاهش می یابد. این روند سبب می شود که الکل های بزرگ تر در آب حل نشوند بلکه در چربی حل شوند
+
+پژوهش‌ها نشان می‌دهد که چربی ارزش سوختی بیشتری از کربوهیدرات‌ها و پروتئین‌ها نیز دارد. به دیگر سخن، انرژی حاصل از اکسایش یک گرم چربی بیشتر از دو ماده غذایی دیگر ).۴ است (جدول",5,2,4,11.34,"{'faithfulness_analysis': 'The generated answer is a verbatim sentence from the retrieved context and does not introduce any claims not present in the context. All statements are directly supported by the context.', 'answer_relevance_analysis': 'The question asks why the body stores more fat than carbohydrates, expecting the explanation that fat has a higher energy (caloric) value per gram. The generated answer only states that excess energy is stored as fat, which does not address the underlying reason. It misses the key fact about the higher energy density of fat, making the answer largely incorrect.', 'context_relevance_analysis': 'The retrieved context includes the necessary fact about fat’s higher energy value, as well as additional unrelated sentences. While the required information is present, the presence of irrelevant material prevents a perfect score.'}"
+FAISS,41,conceptual,2,hard,چرا سوختن پروتئین‌ها در آزمایشگاه با اکسایش آنها در بدن متفاوت است؟,پروتئین‌ها مواد آلی نیتروژن‌دارند. در سوختن کامل در آزمایشگاه افزون بر CO₂ و H₂O و انرژی، گاز N₂ تولید می‌شود، اما در بدن نیتروژن به‌طور عمده به شکل اوره درمی‌آید.,واکنش سوختن پروتئین‌ها در آزمایشگاه با واکنش اکسایش آنها در بدن متفاوت است، زیرا پروتئین‌ها مواد آلی نیتروژن دارند که از سوختن H۲O، CO۲ کامل آنها افزون بر نیز تولید می‌شود.,"> واکنش سوختن پروتئین‌ها در آزمایشگاه‌با واکنش اکسایش آنها در بدن متفاوت است، زیرا پروتئین‌ها مواد آلی نیتروژن دارند که از سوختن H۲O، CO۲ کامل آنها افزون بر نیز تولید می‌شود
+
+الف) با توجه به اینکه در آزمایش ۱ و ۲، نوع ماده ای که می‌سوزد یکسان است، چرا تغییر دمای آب تفاوت دارد؟
+
+اینک می‌پذیرید که واکنش‌های شیمیایی در طبیعت، صنعت و آزمایشگاه با سرعت‌های متفاوتی انجام می‌شوند
+
+‌دهد که این مقدار گرمای آزادشده ناشی از تفاوت انرژی گرمایی‌ها نشان میپژوهش ‌دهنده و فراورده نیست
+
+. اما پرسش این است که چرا بدن ما، چربی را بیشتر ذخیره می‌کند",5,2,2,12.32,"{'faithfulness_analysis': 'The generated answer repeats the retrieved context verbatim (with minor paraphrasing) and does not introduce any facts not present in the context. All claims are supported by the context, even though the context itself is incomplete.', 'answer_relevance_analysis': 'The ground truth states that the difference is that lab combustion produces N₂ while the body converts nitrogen mainly to urea. The generated answer only mentions that proteins are nitrogenous and that combustion produces something, but it does not mention N₂ or urea, nor does it explain the specific difference. Therefore it fails to answer the core of the question.', 'context_relevance_analysis': 'The retrieved context mentions that proteins are nitrogenous and that combustion differs, but it does not include the crucial fact that nitrogen is excreted as urea in the body (or that N₂ is produced in the lab). Hence a crucial piece of information needed for a complete answer is missing.'}"
+FAISS,42,conceptual,2,medium,چرا رادیکال‌ها برای بافت‌های بدن زیان‌آورند و مصرف خوراکی‌های حاوی بازدارنده چگونه به بدن کمک می‌کند؟,رادیکال‌ها گونه‌هایی فعال و ناپایدار با الکترون جفت‌نشده و واکنش‌پذیری بالا هستند؛ اگر بازدارنده‌ها آنها را جذب نکنند، با واکنش‌های سریع به بافت‌های بدن آسیب می‌رسانند. مصرف خوراکی‌های دارای بازدارنده رادیکال‌ها را به‌دام می‌اندازد و مقدار آنها و در نتیجه سرعت واکنش‌های ناخواسته را کاهش می‌دهد.,رادیکال‌ها به‌دلیل انجام واکنش‌های سریع به‌بافت‌های بدن آسیب می‌رسانند. مصرف خوراکی‌های محتوی بازدارنده سبب خواهد شد که رادیکال‌ها به دام بیفتند تا با کاهش مقدار آنها از سرعت واکنش‌های ناخواسته کاسته شود.,"در بدن ما به‌دلیل انجام واکنش‌های متنوع و پیچیده، رادیکال‌هایی به‌وجود می‌آیند که اگر به‌وسیلهٔ باز دارنده‌ها جذب نشوند، می‌توانند با انجام واکنش‌های سریع به‌بافت‌های بدن آسیب برسانند
+
+. با این توصیف مصرف خوراکی‌های محتوی بازدارنده‌ها سبب خواهد شد که رادیکال‌ها .)۱۵ به دام بیفتند تا با کاهش مقدار آنها از سرعت واکنش‌های ناخواسته کاسته شود (شکل
+
+دقیق مشخص نشده‌است اما برخی از آنها به عنوان بازدارنده از انجام واکنش نامطلوب و ناخواسته به‌دلیل حضور رادیکال‌ها جلوگیری می‌کنند
+
+چه رفتاری با مواد غذایی دارد؟ چرا مواد غذایی را باید در محلی تاریک و دور از تابش مستقیم نور خورشید نگه داشت
+
+یافته‌ها و شواهد تجربی نشان می‌دهد که برنامهٔ غذایی محتوی سبزیجات و میوه‌های گوناگون، نقش بازدارندگی مؤثری در برابر سرطان‌ها و پیری زودرس دارند. این یافته‌ها",5,4,4,14.51,"{'faithfulness_analysis': 'The generated answer states that radicals damage tissues through rapid reactions and that inhibitor‑containing foods trap radicals, reducing their amount and the speed of unwanted reactions. Both claims are directly supported by the retrieved context, which contains the same explanations. No external facts are introduced.', 'answer_relevance_analysis': 'The answer addresses both parts of the question: why radicals are harmful (rapid reactions causing damage) and how inhibitor‑rich foods help (trapping radicals and lowering reaction speed). The ground truth also mentions radicals being unstable with unpaired electrons, a detail omitted in the answer. Thus the core answer is correct but missing a minor detail.', 'context_relevance_analysis': 'The retrieved context provides the necessary information about radicals causing damage if not captured and about inhibitors trapping them and reducing unwanted reactions. However, the context also includes unrelated sentences about food storage and other topics, making it slightly noisy.'}"
+FAISS,43,conceptual,3,medium,چرا با افزایش تعداد اتم‌های کربن در الکل‌ها، انحلال‌پذیری آنها در آب کاهش می‌یابد؟,در الکل‌های کوچک (تا پنج کربن) بخش قطبی بر ناقطبی غلبه دارد و الکل در آب حل می‌شود. با افزایش شمار کربن‌ها بخش ناقطبی مولکول بزرگ‌تر و قطبیت کمتر می‌شود؛ پس الکل‌های بزرگ‌تر به‌جای آب در چربی حل می‌شوند و آب‌گریزی آنها بیشتر می‌شود.,بخش ناقطبی مولکول بزرگ تر شده و میزان قطبیت مولکول کاهش می یابد.,". اما با افزایش شمار اتم های کربن، بخش ناقطبی مولکول بزرگ تر شده و میزان قطبیت مولکول کاهش می یابد. این روند سبب می شود که الکل های بزرگ تر در آب حل نشوند بلکه در چربی حل شوند
+
+ج) نمودار زیر انحالل پذیری الکل‌ها را در مقایسه با هیدروکربن‌ها در آب نشان می‌دهد. روند تغییر آنها را توضیح دهید.
+
+. از این رو ویژگی چربی دوستی الکل ها با افزایش شمار اتم های کربن، افزایش می یابد. به بیان دیگر، هرچه شمار اتم های کربن الکل ها بیشتر شود، ویژگی آب گریزی آنها افزایش می یابد.
+
+در ترکیب‌های آلی مانند الکل‌ها و کربوکسیلیک اسیدها که دو بخش قطبی و ناقطبی ناقطبی دارند، با افزایش طول زنجیرکربنی بخش قطبی بیشتر کاهش می‌یابد و انحالل‌پذیری آن در آب کمتر افزایش
+
+## واکنش استری شدن
+
+. این روند سبب می شود که الکل های بزرگ تر در آب حل نشوند بلکه در چربی حل شوند. از این رو ویژگی چربی دوستی الکل ها با افزایش شمار اتم های کربن، افزایش می یابد",5,4,4,11.71,"{'faithfulness_analysis': 'The generated answer states that the non‑polar part of the molecule becomes larger and the overall polarity decreases. This claim is directly present in the retrieved context word‑for‑word, with no additional information introduced.', 'answer_relevance_analysis': 'The answer captures the core reason why water solubility drops: the increase in the non‑polar portion and the reduction of polarity. However, it does not explicitly mention that the solubility in water actually decreases or that larger alcohols become lipophilic, which are present in the ground‑truth answer. Hence it is correct but missing a minor detail.', 'context_relevance_analysis': 'The retrieved context includes the exact statement about the non‑polar part growing and polarity decreasing, and also mentions that larger alcohols no longer dissolve in water but in fat. While the context also contains unrelated sentences (e.g., about esterification), the necessary facts are present, so the relevance is high but not perfectly clean.'}"
+FAISS,44,conceptual,3,medium,هنگام تبدیل اتن به پلی‌اتن چه تغییری در پیوندها رخ می‌دهد که فراورده هیدروکربنی سیرشده است؟,در هر مولکول اتن یکی از پیوندهای دوگانه شکسته می‌شود و مولکول‌های اتن از طریق اتم‌های کربن به هم متصل می‌شوند. در نتیجه در پلی‌اتن هر اتم کربن با چهار پیوند اشتراکی یگانه به چهار اتم دیگر متصل است و ترکیب سیرشده است.,از پیوندهای دوگانه در اتن شکسته شده و مولکول‌های اتن از سوی اتم‌های کربن به یکدیگر متصل می‌شوند.,"با دقت در ساختار پلی‌اتن (فراورده) در می‌یابید که هیدروکربنی سیر شده است زیرا هر اتم کربن در آن با چهار پیوند اشتراکی یگانه به چهار اتم دیگر متصل است، درحالی که در یک مولکول اتن هر اتم کربن به سه اتم
+
+از پیوندهای دوگانه در اتن شکسته شده و مولکول‌های اتن از سوی اتم‌های کربن به یکدیگر متصل می‌شوند
+
+> ## آیا می دانید
+>
+> مولکول‌های گاز اتن در دمای و فشار ۱۰۰۰ atm و ۱۰۰۰˚C حضور کاتالیزگر مناسب با یکدیگر واکنش داده و به پلی‌اتن تبدیل می‌شوند.
+
+شکل ۴- نمایی از واکنش تشکیل پلی اتن
+
+. بهOH و به دیگری ، گروهH در مولکول اتن شکسته شده و به یکی از آنها، اتم ‌ای تولید شده‌سیرشده‌پیوند دوگانه افزوده شده و فراورده‌های کربندیگر سخن مولکول آب به اتم .است",5,3,4,13.76,"{'faithfulness_analysis': 'The generated answer states that double bonds in ethene are broken and that ethene molecules become linked via carbon atoms. Both claims are directly present in the retrieved context. No additional or unsupported information is introduced.', 'answer_relevance_analysis': 'The ground truth explains two points: (1) a double bond in each ethene breaks and molecules link via carbon atoms, and (2) each carbon ends up with four single covalent bonds, making the polymer saturated. The generated answer only includes point (1) and omits the crucial detail about each carbon having four single bonds, which is essential to explain saturation. Therefore the answer is only partially correct.', 'context_relevance_analysis': 'The retrieved context provides both needed facts (breakage of double bonds, linking of molecules, and the four single bonds per carbon) as well as some extra, unrelated information about catalysts and reaction conditions. Hence it contains all necessary information but also includes irrelevant material.'}"
+FAISS,45,conceptual,3,medium,چرا اگر نان را مدت طولانی در دهان بجوید، مزهٔ شیرین احساس می‌کنید؟,نان از نشاسته غنی است و نشاسته (پلی‌ساکارید متشکل از مولکول‌های گلوکز) هنگام گوارش که از دهان آغاز می‌شود با کمک آنزیم‌ها به مونومرهای سازنده، یعنی گلوکز، تبدیل می‌گردد و این گلوکز مزهٔ شیرین ایجاد می‌کند.,کاتالیزگر یا محیط گرم و مرطوب به آرامی به مونومرهای سازنده (گلوکز) تبدیل می‌شوند و مزهٔ شیرین ایجاد می‌کنند.,"؟ واقعیت این است که اگر نان را برای مدت طوالنی‌تری در دهان بجوید، مزه‌ای شیرین احساس خواهید کرد. سیب زمینی پخته نیز اندکی مزهٔ شیرین دارد. این مزهٔ شیرین ناشی از چیست؟
+
+با کاتالیزگر یا محیط گرم و مرطوب به آرامی به مونومرهای سازنده (گلوکز) تبدیل می‌شوند و مزهٔ شیرین ایجاد می‌کنند
+
+. هنگامی که چنین خوراکی‌هایی را در جیب خود بگذارید یا در دست بگیرید، پس از مدتی ذوب شده و حالت خمیری و روان به خود می‌گیرند، زیرا دمای آنها افزایش یافته و جنبش ذره‌های سازنده آنها شدیدتر می‌شود.
+
+> برخی میوه‌های کال و نارس نشاسته دارند. این نشاسته هم‌زمان با رسیدن میوه به گلوکز تبدیل می‌شود و مزهٔ شیرین آن را ایجاد می‌کند
+
+. در این حال توانایی کافی برای تمرکز، فکر کردن و انجام فعالیت ‌ای شیرینی، سرحال خواهید شد زیرا بدن شما انرژی کسب کرده است",5,4,4,19.88,"{'faithfulness_analysis': 'The generated answer repeats verbatim a sentence from the retrieved context about a catalyst or warm moist environment converting the food to glucose, which creates a sweet taste. No claims are added beyond what the context provides.', 'answer_relevance_analysis': 'The answer correctly states that conversion to glucose causes the sweet taste, matching the core of the ground‑truth explanation. It omits the explicit mention that the source is starch in the bread, which is a minor detail, so the answer is mostly correct but not fully complete.', 'context_relevance_analysis': 'The retrieved context includes the necessary explanation (starch → glucose via enzymes in a warm, moist mouth) but also contains unrelated sentences about melting in a pocket and other foods. Therefore it provides the needed facts plus noticeable noise.'}"
+FAISS,46,trap,1,easy,مندلیف جدول دوره‌ای خود را در چه سالی منتشر کرد؟,این اطلاعات در کتاب درسی نیست.,متن بازیابی‌شده: مندلیف يکى از آنها است که جدول دوره اى را طراحى کرده است.,". مندليف يکى از آنها است که جدول دوره اى را طراحى کرده است.
+
+<!-- PAGE: 19 -->
+میالدی) با مدل کوانتومی همخوانی ۱۸۴۹-۱۹۳۲( جدول پیشنهادی شارل ژانت به عنوان زیر الیه g داشت. در دو ردیف جدید این جدول، زیر الیه .‌شودپر میf وd ،p ،s
+
+دستهٔ f
+
+در هر دوره از جدول دوره‌ای، از چپ به راست از خاصیت فلزی کاسته و به خاصیت نافلزی افزوده می‌شود
+
+. مندلیف یکی از آنها است ‌توان به‌آید زیرا بر اساس این روندها، الگوها و روابط میو مؤثرتر در پیشرفت علم به شمار می ‌دار، منظم و هوشمندانۀ رفتار‌توان مطالعهٔ هدفرمز و راز هستی پی برد. علم شیمی را می
+
+می‌دانید که همه ۱۱۸ عنصر جدول دوره‌ای شناسایی و توسط آپوپاک تأیید شده است. عنصر ۱۲۰ یا ۱۲۱ در آزمایشگاه‌های تحقیقاتی و مدرن شنیده باشید",5,1,2,8.21,"{'faithfulness_analysis': 'The generated answer only repeats the sentence ""مندليف يکى از آنها است که جدول دوره اى را طراحى کرده است"" which is verbatim present in the retrieved context. No additional claims are made, so all statements are supported by the context.', 'answer_relevance_analysis': 'The question asks for the year Mendeleev published his periodic table. The ground truth indicates that this information is not available in the textbook, so a correct system would refuse to answer. The generated answer instead provides a generic statement that Mendeleev designed the table, offering no year and not refusing. Therefore it fails to answer the question and is considered completely wrong.', 'context_relevance_analysis': ""The retrieved context mentions Mendeleev's role in designing the periodic table but does not contain the year of publication, which is the crucial fact needed to answer the question. Hence the context is missing a vital piece of information.""}"
+FAISS,47,trap,1,easy,شعاع اتمی روبیدیم (Rb) چند پیکومتر است؟,این اطلاعات در کتاب درسی نیست.,۱۸۶ پیکومتر (pm),"شعاع همه‌آتم‌ها با روش گفته‌شده قابل اندازه‌گیری نیست. شعاع دسته‌ دیگری از اتم‌ها به روش زیر اندازه‌گیری می‌شود.
+
+برای نمونه شعاع اتم سدیم برابر با ۱۸۶ پیکومتر (pm) است.
+
+؟ جنب‌وجوش مولکول‌ها در کدام حالت فیزیکی شدیدتر است؟
+
+ب) سرعت متوسط تولید یا مصرف هر شرکت کننده را به ضریب استوکیومتری آن تقسیم کنید. از حاصل این تقسیم ها چه نتیجه ای می گیرد؟
+
+ت) توضیح دهید خصلت نافلزی با شعاع اتمی چه رابطه‌ای دارد.
+
+. بررسی‌ها نشان می‌دهد که جرم مولی این فراورده، اغلب ده‌ها هزار گرم بر مول است. زیاد بودن جرم مولی بیانگر این است که در ساختار هر مولکول آن هزاران اتم کربن و هیدروژن وجود دارد",1,1,2,7.43,"{'faithfulness_analysis': ""The generated answer states that rubidium's atomic radius is 186\u202fpm. The retrieved context only provides the atomic radius of sodium (186\u202fpm) and does not mention rubidium at all. Therefore the claim is unsupported and contradicts the context."", 'answer_relevance_analysis': 'The ground truth indicates that the information is not available in the textbook (i.e., the correct response should be a refusal or statement of unavailability). The generated answer gives a specific numeric value, which is incorrect and does not match the ground truth.', 'context_relevance_analysis': ""The retrieved context lacks any data about rubidium's atomic radius; it only mentions sodium's radius and unrelated material. Hence a crucial fact needed to answer the question is missing.""}"
+FAISS,48,trap,2,easy,گرمای ویژهٔ فلز مس چند ژول بر گرم بر درجهٔ سلسیوس است؟,این اطلاعات در کتاب درسی نیست.,۰/۲۳۶,"| ماده | گرمای ویژه (\( Jg^{-1} °C^{-1} \)) | ماده | گرمای ویژه (\( Jg^{-1} °C^{-1} \)) |
+| :---: | :---: | :---: | :---: |
+| آلومینیم | ۰/۹۰ | آب | ۴/۱۸۴ |
+| نقره | ۰/۲۳۶ | سدیم کلرید | ۰/۸۵۰ |
+
+؟ جنب‌وجوش مولکول‌ها در کدام حالت فیزیکی شدیدتر است؟
+
+## دمای یک ماده از چه خبر می دهد؟
+
+الف) با مصرف \( ۴۰۰ \text{ kg} \) مس (I) سولفید با خلوص ٪۸۵ حدود \( ۱۹/۵۴ \text{ kg} \) مس خام تهیه می‌شود. بازده درصدی واکنش را حساب کنید.
+
+ب) چرا این واکنش روی محیط زیست تأثیر زیان باری دارد؟
+
+\[ 2C_5H_{11}O_2(s) + 163O_2(g) \rightarrow 114CO_2(g) + 11H_2O(l), \Delta H = -75520 kJ \]
+
+حساب کنید از اکسایش هر کیلوگرم چربی، چند کیلوژول انرژی آزاد می‌شود؟",1,1,2,3.93,"{'faithfulness_analysis': 'The generated answer provides the value ""۰/۲۳۶"", which corresponds to the specific heat of silver in the retrieved table. The question asks for the specific heat of copper, which is not present in the context. Therefore the claim is not supported by the context and is effectively a hallucination.', 'answer_relevance_analysis': 'The ground truth states that the information is not available in the textbook, implying the correct response should be a refusal or indication of missing data. The generated answer gives a numeric value, which is incorrect and contradicts the ground truth.', 'context_relevance_analysis': 'The retrieved context contains a table of specific heats for several substances, but copper is absent. Hence the context lacks the crucial fact needed to answer the question correctly, providing only partially related information.'}"
+FAISS,49,trap,2,medium,آنتالپی تبخیر اتانول چند کیلوژول بر مول است؟,این اطلاعات در کتاب درسی نیست.,اطلاعات کافی در متن موجود نیست.,"الف) جدول ۲ و ۳ حساب کنید.
+
+ب) آنتالپی سوختن اتان، اتان و هیدروژن که به ترتیب برابر با ۱۴۱۰، ۱۵۶۰ و ۲۸۶ کیلو ژول بر مول است، حساب کنید.
+
+این معادله نشان می‌دهد که برای تبخیر یک مول آب به ۴۴/۱ کیلوژول گرما نیاز است
+
+. برای نمونه هرگاه گاز اتن را در فشار باال گرما دهیم، جامد سفیدرنگی به دست می‌آید. بررسی‌ها نشان می‌دهد که جرم مولی این فراورده، اغلب ده‌ها هزار گرم بر مول است
+
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| آنتالپی (kJ/mol) | ۲۴۲ | ۱۹۳ | ۱۵۱ | ۵۶۷ | ۴۳۱ | ۴۹۵ | ۹۴۵ |
+
+\[2CO(g) + 2NO(g) \rightarrow 2CO_2(g) + N_2(g) \quad \Delta H = ?\]
+
+آنتالپی واکنش باال را با استفاده از واکنش‌های ترموشیمیایی زیر حساب کنید.
+
+CO(g)+ ۱ O۲(g) CO۲(g) H = -۲۸۳ kJ",5,5,2,4.56,"{'faithfulness_analysis': 'The generated answer states that the information is not present in the text. This claim is supported because the retrieved context indeed does not provide any value for the enthalpy of vaporization of ethanol. No external facts are introduced.', 'answer_relevance_analysis': 'The ground truth indicates that the information is not in the textbook, and the generated answer correctly refuses, saying the information is insufficient. This matches the expected response, so it is fully correct.', 'context_relevance_analysis': 'The retrieved context does not contain the required fact that the enthalpy of vaporization of ethanol is unavailable. Therefore a crucial piece of information needed to justify the refusal is missing, resulting in a low relevance score.'}"
+FAISS,50,trap,3,medium,نقطهٔ ذوب پلیمر تفلون چند درجهٔ سلسیوس است؟,این اطلاعات در کتاب درسی نیست.,تفلون، نقطۀ ذوب باالیی دارد و در برابر گرما مقاوم است.,"تفلون، نقطۀ ذوب باالیی دارد و در برابر گرما مقاوم است. این پلیمر از نظر شیمیایی بی اثر است و با مواد شیمیایی واکنش نمی‌دهد، در حاال‌های آلی حل نمی‌شود و نجسب است
+
+## دمای یک ماده از چه خبر می دهد؟
+
+> ## آیا می دانید
+>
+> مولکول‌های گاز اتن در دمای و فشار ۱۰۰۰ atm و ۱۰۰۰˚C حضور کاتالیزگر مناسب با یکدیگر واکنش داده و به پلی‌اتن تبدیل می‌شوند.
+
+این معادله نشان می‌دهد که برای تبخیر یک مول آب به ۴۴/۱ کیلوژول گرما نیاز است
+
+تفلون نام تجاری پلیمری است که کشف اتفاقی آن، پالنکت را به شهرت و ثروت رساند. میالدی اتفاق افتاد. پالنکت و گروه پژوهشی او در حال بررسی و مطالعه۱۹۳۰ ماجرا در دهه ها بودند",5,1,2,8.09,"{'faithfulness_analysis': 'The generated answer repeats the statement from the retrieved context that Teflon has a high melting point and is heat‑resistant. No additional facts are introduced, so all claims are directly supported by the context.', 'answer_relevance_analysis': 'The question asks for the melting point of Teflon in degrees Celsius. The ground truth indicates that this information is not available in the textbook, implying the correct response is a refusal or statement of unavailability. The generated answer provides a vague claim that the melting point is high, without giving a numeric value or acknowledging the lack of information, thus it fails to answer the question.', 'context_relevance_analysis': 'The retrieved context mentions that Teflon has a high melting point but does not provide the specific temperature in Celsius. Therefore, the crucial fact needed to answer the question is missing, making the context insufficient.'}"

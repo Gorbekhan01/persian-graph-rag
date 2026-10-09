@@ -1,0 +1,10 @@
+﻿Category,Difficulty,FAISS_Faithfulness,FAISS_Answer_Rel,FAISS_Context_Rel,PROPOSED_Faithfulness,PROPOSED_Answer_Rel,PROPOSED_Context_Rel
+conceptual,easy,5.0,5.0,4.0,5.0,5.0,4.0
+conceptual,hard,5.0,2.0,2.0,5.0,2.0,4.0
+conceptual,medium,5.0,3.38,3.75,4.62,3.88,4.12
+multi-hop,hard,4.33,2.0,2.83,4.83,2.33,3.17
+multi-hop,medium,5.0,2.83,2.92,5.0,3.5,3.58
+simple,easy,4.62,3.81,3.62,4.75,4.12,3.56
+simple,medium,1.0,1.0,4.0,5.0,4.0,4.0
+trap,easy,2.33,1.0,2.0,4.0,2.33,2.0
+trap,medium,5.0,3.0,2.0,5.0,3.0,2.0
